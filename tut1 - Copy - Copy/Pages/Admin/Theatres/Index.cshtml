@@ -1,0 +1,45 @@
+﻿@page
+@model TeamProject.Pages.Theatres.IndexModel
+@{
+}
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h3 class="text-primary">Theatres</h3>
+        </div>
+        <div class="col-6">
+            <a asp-page="Create" class="btn btn-primary">
+                Add New Theatre
+            </a>
+        </div>
+    </div>
+</div>
+
+<br /> <br /> <br />
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Theatres</th>
+            <th>Theatre Number</th>
+            <th>Capacity</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var obj in Model.Theatres)
+        {
+            <tr>
+                <td width="40%">@obj.Id</td>
+                <td width="40%">@obj.TheatreNum</td>
+                <td width="40%">@obj.Capacity</td>
+                <td>
+                    <a asp-page="Edit" asp-route-id="@obj.Id">Edit</a>
+                </td>
+                <td>
+                    <a asp-page="Delete" asp-route-id="@obj.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

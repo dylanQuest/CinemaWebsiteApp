@@ -1,0 +1,1295 @@
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\appsettings.json
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\tut1.staticwebassets.runtime.json
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\tut1.exe
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\tut1.deps.json
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\tut1.runtimeconfig.json
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\tut1.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\tut1.pdb
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00170666\Desktop\tut1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\tut1.csproj.AssemblyReference.cache
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\tut1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\tut1.AssemblyInfoInputs.cache
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\tut1.AssemblyInfo.cs
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\tut1.csproj.CoreCompileInputs.cache
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\tut1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cache
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cs
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\staticwebassets\msbuild.tut1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\staticwebassets\msbuild.build.tut1.props
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tut1.props
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tut1.props
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\scopedcss\bundle\tut1.styles.css
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\scopedcss\projectbundle\tut1.bundle.scp.css
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\tut1.csproj.CopyComplete
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\tut1.dll
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\refint\tut1.dll
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\tut1.pdb
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\tut1.genruntimeconfig.cache
+C:\Users\L00170666\Desktop\tut1\obj\Debug\net7.0\ref\tut1.dll
+H:\tut1\bin\Debug\net7.0\appsettings.Development.json
+H:\tut1\bin\Debug\net7.0\appsettings.json
+H:\tut1\bin\Debug\net7.0\tut1.staticwebassets.runtime.json
+H:\tut1\bin\Debug\net7.0\tut1.exe
+H:\tut1\bin\Debug\net7.0\tut1.deps.json
+H:\tut1\bin\Debug\net7.0\tut1.runtimeconfig.json
+H:\tut1\bin\Debug\net7.0\tut1.dll
+H:\tut1\bin\Debug\net7.0\tut1.pdb
+H:\tut1\bin\Debug\net7.0\Azure.Core.dll
+H:\tut1\bin\Debug\net7.0\Azure.Identity.dll
+H:\tut1\bin\Debug\net7.0\Humanizer.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\tut1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\tut1\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\tut1\bin\Debug\net7.0\System.CodeDom.dll
+H:\tut1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\tut1\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\tut1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\tut1\bin\Debug\net7.0\System.Memory.Data.dll
+H:\tut1\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\tut1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\tut1\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\tut1\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\tut1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\tut1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\tut1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\tut1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\tut1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\tut1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\tut1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\tut1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\tut1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\tut1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\tut1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\tut1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\tut1\obj\Debug\net7.0\tut1.csproj.AssemblyReference.cache
+H:\tut1\obj\Debug\net7.0\tut1.GeneratedMSBuildEditorConfig.editorconfig
+H:\tut1\obj\Debug\net7.0\tut1.AssemblyInfoInputs.cache
+H:\tut1\obj\Debug\net7.0\tut1.AssemblyInfo.cs
+H:\tut1\obj\Debug\net7.0\tut1.csproj.CoreCompileInputs.cache
+H:\tut1\obj\Debug\net7.0\tut1.MvcApplicationPartsAssemblyInfo.cache
+H:\tut1\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cache
+H:\tut1\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cs
+H:\tut1\obj\Debug\net7.0\staticwebassets.build.json
+H:\tut1\obj\Debug\net7.0\staticwebassets.development.json
+H:\tut1\obj\Debug\net7.0\staticwebassets\msbuild.tut1.Microsoft.AspNetCore.StaticWebAssets.props
+H:\tut1\obj\Debug\net7.0\staticwebassets\msbuild.build.tut1.props
+H:\tut1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tut1.props
+H:\tut1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tut1.props
+H:\tut1\obj\Debug\net7.0\staticwebassets.pack.json
+H:\tut1\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+H:\tut1\obj\Debug\net7.0\scopedcss\bundle\tut1.styles.css
+H:\tut1\obj\Debug\net7.0\scopedcss\projectbundle\tut1.bundle.scp.css
+H:\tut1\obj\Debug\net7.0\tut1.csproj.CopyComplete
+H:\tut1\obj\Debug\net7.0\tut1.dll
+H:\tut1\obj\Debug\net7.0\refint\tut1.dll
+H:\tut1\obj\Debug\net7.0\tut1.pdb
+H:\tut1\obj\Debug\net7.0\tut1.genruntimeconfig.cache
+H:\tut1\obj\Debug\net7.0\ref\tut1.dll
+H:\tut1 - Copy\bin\Debug\net7.0\appsettings.Development.json
+H:\tut1 - Copy\bin\Debug\net7.0\appsettings.json
+H:\tut1 - Copy\bin\Debug\net7.0\tut1.staticwebassets.runtime.json
+H:\tut1 - Copy\bin\Debug\net7.0\tut1.exe
+H:\tut1 - Copy\bin\Debug\net7.0\tut1.deps.json
+H:\tut1 - Copy\bin\Debug\net7.0\tut1.runtimeconfig.json
+H:\tut1 - Copy\bin\Debug\net7.0\tut1.dll
+H:\tut1 - Copy\bin\Debug\net7.0\tut1.pdb
+H:\tut1 - Copy\bin\Debug\net7.0\Azure.Core.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Azure.Identity.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Humanizer.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\tut1 - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\tut1 - Copy\bin\Debug\net7.0\System.CodeDom.dll
+H:\tut1 - Copy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\tut1 - Copy\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\tut1 - Copy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\tut1 - Copy\bin\Debug\net7.0\System.Memory.Data.dll
+H:\tut1 - Copy\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\tut1 - Copy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\tut1 - Copy\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\tut1 - Copy\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\tut1 - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\tut1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\tut1 - Copy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\tut1 - Copy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\tut1 - Copy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\tut1 - Copy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\tut1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\tut1 - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\tut1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\tut1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\tut1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\tut1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\tut1 - Copy\bin\Debug\net7.0\RP1.DataAccess.dll
+H:\tut1 - Copy\bin\Debug\net7.0\RP1.Models.dll
+H:\tut1 - Copy\bin\Debug\net7.0\RP1.DataAccess.pdb
+H:\tut1 - Copy\bin\Debug\net7.0\RP1.Models.pdb
+H:\tut1 - Copy\obj\Debug\net7.0\tut1.csproj.AssemblyReference.cache
+H:\tut1 - Copy\obj\Debug\net7.0\tut1.GeneratedMSBuildEditorConfig.editorconfig
+H:\tut1 - Copy\obj\Debug\net7.0\tut1.AssemblyInfoInputs.cache
+H:\tut1 - Copy\obj\Debug\net7.0\tut1.AssemblyInfo.cs
+H:\tut1 - Copy\obj\Debug\net7.0\tut1.csproj.CoreCompileInputs.cache
+H:\tut1 - Copy\obj\Debug\net7.0\tut1.MvcApplicationPartsAssemblyInfo.cache
+H:\tut1 - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cache
+H:\tut1 - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cs
+H:\tut1 - Copy\obj\Debug\net7.0\staticwebassets.build.json
+H:\tut1 - Copy\obj\Debug\net7.0\staticwebassets.development.json
+H:\tut1 - Copy\obj\Debug\net7.0\staticwebassets\msbuild.tut1.Microsoft.AspNetCore.StaticWebAssets.props
+H:\tut1 - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.tut1.props
+H:\tut1 - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tut1.props
+H:\tut1 - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tut1.props
+H:\tut1 - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+H:\tut1 - Copy\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+H:\tut1 - Copy\obj\Debug\net7.0\scopedcss\bundle\tut1.styles.css
+H:\tut1 - Copy\obj\Debug\net7.0\scopedcss\projectbundle\tut1.bundle.scp.css
+H:\tut1 - Copy\obj\Debug\net7.0\tut1.csproj.CopyComplete
+H:\tut1 - Copy\obj\Debug\net7.0\tut1.dll
+H:\tut1 - Copy\obj\Debug\net7.0\refint\tut1.dll
+H:\tut1 - Copy\obj\Debug\net7.0\tut1.pdb
+H:\tut1 - Copy\obj\Debug\net7.0\tut1.genruntimeconfig.cache
+H:\tut1 - Copy\obj\Debug\net7.0\ref\tut1.dll
+D:\tut1 - Copy\bin\Debug\net7.0\appsettings.Development.json
+D:\tut1 - Copy\bin\Debug\net7.0\appsettings.json
+D:\tut1 - Copy\bin\Debug\net7.0\tut1.staticwebassets.runtime.json
+D:\tut1 - Copy\bin\Debug\net7.0\tut1.exe
+D:\tut1 - Copy\bin\Debug\net7.0\tut1.deps.json
+D:\tut1 - Copy\bin\Debug\net7.0\tut1.runtimeconfig.json
+D:\tut1 - Copy\bin\Debug\net7.0\tut1.dll
+D:\tut1 - Copy\bin\Debug\net7.0\tut1.pdb
+D:\tut1 - Copy\bin\Debug\net7.0\Azure.Core.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Azure.Identity.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Humanizer.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\tut1 - Copy\bin\Debug\net7.0\System.CodeDom.dll
+D:\tut1 - Copy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\tut1 - Copy\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\tut1 - Copy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\tut1 - Copy\bin\Debug\net7.0\System.Memory.Data.dll
+D:\tut1 - Copy\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\tut1 - Copy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\tut1 - Copy\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\tut1 - Copy\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\tut1 - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tut1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tut1 - Copy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tut1 - Copy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tut1 - Copy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tut1 - Copy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tut1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\tut1 - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tut1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tut1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\tut1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\tut1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\tut1 - Copy\bin\Debug\net7.0\RP1.DataAccess.dll
+D:\tut1 - Copy\bin\Debug\net7.0\RP1.Models.dll
+D:\tut1 - Copy\bin\Debug\net7.0\RP1.DataAccess.pdb
+D:\tut1 - Copy\bin\Debug\net7.0\RP1.Models.pdb
+D:\tut1 - Copy\obj\Debug\net7.0\tut1.csproj.AssemblyReference.cache
+D:\tut1 - Copy\obj\Debug\net7.0\tut1.GeneratedMSBuildEditorConfig.editorconfig
+D:\tut1 - Copy\obj\Debug\net7.0\tut1.AssemblyInfoInputs.cache
+D:\tut1 - Copy\obj\Debug\net7.0\tut1.AssemblyInfo.cs
+D:\tut1 - Copy\obj\Debug\net7.0\tut1.csproj.CoreCompileInputs.cache
+D:\tut1 - Copy\obj\Debug\net7.0\tut1.MvcApplicationPartsAssemblyInfo.cache
+D:\tut1 - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cache
+D:\tut1 - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cs
+D:\tut1 - Copy\obj\Debug\net7.0\staticwebassets\msbuild.tut1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\tut1 - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.tut1.props
+D:\tut1 - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tut1.props
+D:\tut1 - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tut1.props
+D:\tut1 - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+D:\tut1 - Copy\obj\Debug\net7.0\staticwebassets.build.json
+D:\tut1 - Copy\obj\Debug\net7.0\staticwebassets.development.json
+D:\tut1 - Copy\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\tut1 - Copy\obj\Debug\net7.0\scopedcss\bundle\tut1.styles.css
+D:\tut1 - Copy\obj\Debug\net7.0\scopedcss\projectbundle\tut1.bundle.scp.css
+D:\tut1 - Copy\obj\Debug\net7.0\tut1.csproj.CopyComplete
+D:\tut1 - Copy\obj\Debug\net7.0\tut1.dll
+D:\tut1 - Copy\obj\Debug\net7.0\refint\tut1.dll
+D:\tut1 - Copy\obj\Debug\net7.0\tut1.pdb
+D:\tut1 - Copy\obj\Debug\net7.0\tut1.genruntimeconfig.cache
+D:\tut1 - Copy\obj\Debug\net7.0\ref\tut1.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\tut1 - Copy\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.Development.json
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.json
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.staticwebassets.runtime.json
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.exe
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.deps.json
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.runtimeconfig.json
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.pdb
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Core.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Identity.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Humanizer.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\System.CodeDom.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\System.Memory.Data.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.pdb
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.pdb
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.AssemblyReference.cache
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.GeneratedMSBuildEditorConfig.editorconfig
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfoInputs.cache
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfo.cs
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CoreCompileInputs.cache
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.MvcApplicationPartsAssemblyInfo.cache
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cache
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cs
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.build.json
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.development.json
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.tut1.Microsoft.AspNetCore.StaticWebAssets.props
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.tut1.props
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tut1.props
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tut1.props
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\bundle\tut1.styles.css
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\projectbundle\tut1.bundle.scp.css
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CopyComplete
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.dll
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\refint\tut1.dll
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.pdb
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.genruntimeconfig.cache
+H:\tut1 - Copy - Copy\obj\Debug\net7.0\ref\tut1.dll
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.AssemblyReference.cache
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.GeneratedMSBuildEditorConfig.editorconfig
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfoInputs.cache
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfo.cs
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CoreCompileInputs.cache
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.MvcApplicationPartsAssemblyInfo.cache
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cache
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cs
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.Development.json
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.json
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.staticwebassets.runtime.json
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.exe
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.deps.json
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.runtimeconfig.json
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.pdb
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Core.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Identity.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Humanizer.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\System.CodeDom.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\System.Memory.Data.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.dll
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.pdb
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.pdb
+D:\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.pdb
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.tut1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.tut1.props
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tut1.props
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tut1.props
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.build.json
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.development.json
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\bundle\tut1.styles.css
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\projectbundle\tut1.bundle.scp.css
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CopyComplete
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.dll
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\refint\tut1.dll
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.pdb
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.genruntimeconfig.cache
+D:\tut1 - Copy - Copy\obj\Debug\net7.0\ref\tut1.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.dll
+H:\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.pdb
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.AssemblyReference.cache
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfoInputs.cache
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfo.cs
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CoreCompileInputs.cache
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.MvcApplicationPartsAssemblyInfo.cache
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cache
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cs
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\refint\tut1.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.pdb
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.Development.json
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.json
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.staticwebassets.runtime.json
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.exe
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.deps.json
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.runtimeconfig.json
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.pdb
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Core.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Identity.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Humanizer.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\System.CodeDom.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\System.Memory.Data.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.dll
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.pdb
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.pdb
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.pdb
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.tut1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.tut1.props
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tut1.props
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tut1.props
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.build.json
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.development.json
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\bundle\tut1.styles.css
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\projectbundle\tut1.bundle.scp.css
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CopyComplete
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.genruntimeconfig.cache
+D:\AAAAAAAAAAAAAaaaa\tut1 - Copy - Copy\obj\Debug\net7.0\ref\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.json
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.staticwebassets.runtime.json
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.exe
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.deps.json
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.runtimeconfig.json
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Humanizer.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.pdb
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.pdb
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.pdb
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.AssemblyReference.cache
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfoInputs.cache
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CoreCompileInputs.cache
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.tut1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.tut1.props
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tut1.props
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tut1.props
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\bundle\tut1.styles.css
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\projectbundle\tut1.bundle.scp.css
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CopyComplete
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\refint\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.genruntimeconfig.cache
+C:\Users\L00169531\Downloads\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\ref\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.json
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.staticwebassets.runtime.json
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.exe
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.deps.json
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.runtimeconfig.json
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Humanizer.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.pdb
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.pdb
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.pdb
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.AssemblyReference.cache
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfoInputs.cache
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CoreCompileInputs.cache
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.tut1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.tut1.props
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tut1.props
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tut1.props
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\bundle\tut1.styles.css
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\projectbundle\tut1.bundle.scp.css
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CopyComplete
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\refint\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.genruntimeconfig.cache
+C:\Users\L00169531\Downloads\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\ref\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.AssemblyReference.cache
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfoInputs.cache
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CoreCompileInputs.cache
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\refint\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.json
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.staticwebassets.runtime.json
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.exe
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.deps.json
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.runtimeconfig.json
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Humanizer.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.dll
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.pdb
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.pdb
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.pdb
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.tut1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.tut1.props
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tut1.props
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tut1.props
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\bundle\tut1.styles.css
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\projectbundle\tut1.bundle.scp.css
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CopyComplete
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.genruntimeconfig.cache
+C:\Users\L00169531\Downloads\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\ref\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.staticwebassets.runtime.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.exe
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.deps.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.runtimeconfig.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Humanizer.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.pdb
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.pdb
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.pdb
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.AssemblyReference.cache
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfoInputs.cache
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CoreCompileInputs.cache
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.tut1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.tut1.props
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tut1.props
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tut1.props
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\bundle\tut1.styles.css
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\projectbundle\tut1.bundle.scp.css
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CopyComplete
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\refint\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.genruntimeconfig.cache
+C:\Users\L00169531\Downloads\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\ref\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.json
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.staticwebassets.runtime.json
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.exe
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.deps.json
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.runtimeconfig.json
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Humanizer.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.pdb
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.pdb
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.pdb
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.AssemblyReference.cache
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfoInputs.cache
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CoreCompileInputs.cache
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.tut1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.tut1.props
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tut1.props
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tut1.props
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\bundle\tut1.styles.css
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\projectbundle\tut1.bundle.scp.css
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CopyComplete
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\refint\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.genruntimeconfig.cache
+C:\Users\L00169531\Downloads\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\ref\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.AssemblyReference.cache
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfoInputs.cache
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CoreCompileInputs.cache
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\refint\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.staticwebassets.runtime.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.exe
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.deps.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.runtimeconfig.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Humanizer.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.dll
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.pdb
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.pdb
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.pdb
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.tut1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.tut1.props
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tut1.props
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tut1.props
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\bundle\tut1.styles.css
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\projectbundle\tut1.bundle.scp.css
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CopyComplete
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.genruntimeconfig.cache
+C:\Users\L00169531\Downloads\TeamProject (2) 1 1\TeamProject (3) 1\TeamProject (2) 1\TeamProject (3)\TeamProject (2)\TeamProject\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\ref\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.json
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.staticwebassets.runtime.json
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.exe
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.deps.json
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.runtimeconfig.json
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Humanizer.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.pdb
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.pdb
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.pdb
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.AssemblyReference.cache
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfoInputs.cache
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CoreCompileInputs.cache
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.tut1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.tut1.props
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tut1.props
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tut1.props
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\bundle\tut1.styles.css
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\projectbundle\tut1.bundle.scp.css
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CopyComplete
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\refint\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.genruntimeconfig.cache
+C:\Users\L00169531\Downloads\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\ref\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\appsettings.json
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.staticwebassets.runtime.json
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.exe
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.deps.json
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.runtimeconfig.json
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Humanizer.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.DataAccess.pdb
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Models.pdb
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\bin\Debug\net7.0\RP1.Services.pdb
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.AssemblyReference.cache
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfoInputs.cache
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.AssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CoreCompileInputs.cache
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cache
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.RazorAssemblyInfo.cs
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.tut1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.tut1.props
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.tut1.props
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.tut1.props
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\bundle\tut1.styles.css
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\scopedcss\projectbundle\tut1.bundle.scp.css
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.csproj.CopyComplete
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\refint\tut1.dll
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.pdb
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.genruntimeconfig.cache
+C:\Users\L00169531\Downloads\TeamProject(1)\TeamProject\tut1 - Copy - Copy\obj\Debug\net7.0\ref\tut1.dll

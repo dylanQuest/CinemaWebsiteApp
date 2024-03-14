@@ -1,0 +1,45 @@
+﻿@page
+@model TeamProject.Pages.Screenings.IndexModel
+@{
+}
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h3 class="text-primary">Screenings</h3>
+        </div>
+        <div class="col-6">
+            <a asp-page="Create" class="btn btn-primary">
+                Add New Screening
+            </a>
+        </div>
+    </div>
+</div>
+
+<br /> <br /> <br />
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Screenings</th>
+            <th>Date</th>
+            <th>Seats Remainings</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var obj in Model.Screenings)
+        {
+            <tr>
+                <td width="40%">@obj.Id</td>
+                <td width="40%">@obj.Date</td>
+                <td width="40%">@obj.seatsRemaining</td>
+                <td>
+                    <a asp-page="Edit" asp-route-id="@obj.Id">Edit</a>
+                </td>
+                <td>
+                    <a asp-page="Delete" asp-route-id="@obj.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

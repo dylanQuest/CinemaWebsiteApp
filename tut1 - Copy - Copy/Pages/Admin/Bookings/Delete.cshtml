@@ -1,0 +1,36 @@
+﻿@page
+@model TeamProject.Pages.Admin.Bookings.DeleteModel
+@{
+}
+
+<form method="post">
+<input hidden asp-for="Booking.Id"/>
+<div class="border p-3 mt-4">
+    <div class="row pb-2">
+        <h2 class="text-primary pl-3">Delete Booking</h2>
+    </div>
+
+        <div class="mb-3">
+            <label asp-for="@Model.Booking.SeatAmount"></label>
+            <input asp-for="@Model.Booking.SeatAmount" class="form-control" />
+            <span asp-validation-for="@Model.Booking.SeatAmount" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Booking.Cost"></label>
+            <input asp-for="@Model.Booking.Cost" class="form-control" />
+            <span asp-validation-for="@Model.Booking.Cost" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Booking.Email"></label>
+            <input asp-for="@Model.Booking.Email" class="form-control" />
+            <span asp-validation-for="@Model.Booking.Email" class="text-danger"></span>
+        </div>
+    <button type="submit" class="btn btn-primary">Delete</button>
+    <a asp-page="Index" class="btn btn-secondary">Back to Index</a>
+</div>
+</form>
+@section Scripts{
+    @{
+        <partial name="_validationScriptsPartial" />
+    }
+}
