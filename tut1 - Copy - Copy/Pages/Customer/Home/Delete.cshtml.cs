@@ -4,7 +4,7 @@ using RP1.Models.Models;
 using RP1.DataAccess.DataAccess;
 using RP1.Services;
 
-namespace TeamProject.Pages.Customer.Films
+namespace TeamProject.Pages.Customer.Home
 {
     public class DeleteModel : PageModel
     {

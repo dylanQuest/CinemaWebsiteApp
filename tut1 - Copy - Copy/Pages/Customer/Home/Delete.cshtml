@@ -1,16 +1,18 @@
 ﻿@page
-@model TeamProject.Pages.Customer.Films.EditModel
+@model TeamProject.Pages.Customer.Home.DeleteModel
 @{
 }
 
 <form method="post">
-    <input hidden asp-for="Film.Id" />
+<input hidden asp-for="Film.Id"/>
 <div class="border p-3 mt-4">
     <div class="row pb-2">
-         <h2 class="text-primary pl-3">Edit Film</h2>
+        <h2 class="text-primary pl-3">Delete Film</h2>
     </div>
+
         <div class="mb-3">
-            <label asp-for="@Model.Film.FilmName"></label>
+			<label asp-for="@Model.Film.FilmName"></label><a href="c:\users\l00169531\source\repos\team-1-project\tut1 - copy - copy\pages\customer\home\delete.cshtml">c:\users\l00169531\source\repos\team-1-project\tut1 - copy - copy\pages\customer\home\delete.cshtml</a>
+			<a href="c:\users\l00169531\source\repos\team-1-project\tut1 - copy - copy\pages\customer\home\delete.cshtml.cs">c:\users\l00169531\source\repos\team-1-project\tut1 - copy - copy\pages\customer\home\delete.cshtml.cs</a>
             <input asp-for="@Model.Film.FilmName" class="form-control" />
             <span asp-validation-for="@Model.Film.FilmName" class="text-danger"></span>
         </div>
@@ -29,13 +31,12 @@
             <input asp-for="@Model.Film.ageRating" class="form-control" />
             <span asp-validation-for="@Model.Film.ageRating" class="text-danger"></span>
         </div>
-    <button type="submit" class="btn btn-primary">Update</button>
+    <button type="submit" class="btn btn-primary">Delete</button>
     <a asp-page="Index" class="btn btn-secondary">Back to Index</a>
 </div>
 </form>
 @section Scripts{
     @{
         <partial name="_validationScriptsPartial" />
-     }
+    }
 }
-

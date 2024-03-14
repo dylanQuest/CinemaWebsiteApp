@@ -1,0 +1,91 @@
+﻿@page
+@model TeamProject.Pages.Customer.Home.IndexModel
+@{
+}
+<div class="row container pb-3 backgroundWhite">
+
+	<div class="row container pb-3 backgroundWhite">
+		<p>
+			<form class="d-flex" class="col-3">
+				<input type="text" placeholder="Enter Film Name" class="form-control me-sm-2" asp-for="SearchString" />
+				<input type="submit" value="Search" class="btn btn-outline" class="form-control align-content-end" />
+				<a asp-route-Products="" asp-route-SearchString="" class="btn btn-outline-secondary">Clear</a>
+			</form>
+		</p>
+	</div>
+
+	@foreach (var Film in Model.listOfFilms)
+	{
+		<h2 class="text-success pl-1"><b>@Film.FilmName</b></h2>
+		<div class="col-12">
+			<div class="row my-3">
+
+					<div class="col-lg-4 col-md-6 pb-4 filter">
+						<div class="card bg-white rounded shadow-sm" style="border:1px solid #222">
+							<img class="card-img-top img-fluid d-block mx-auto mb-3" src="@Film.ImageName" alt="menuitem image">
+							<div class="card-body p-1 px-3 row">
+								<div class="col-12 p-1">
+									<a asp-page="Details" asp-route-id="@Film.Id" class="btn btn-dark form-control btn-sm p-2" style="height:40px">View Details</a>
+								</div>
+							</div>
+						</div>
+					</div>
+			</div>
+		</div>
+	}
+</div>
+
+@section Scripts{
+	@{
+		<partial name="_validationScriptsPartial" />
+	}
+}
+
+<!--<div class="row">
+    <iframe height="800">
+        width = "600"
+        src = "atneededModel.Film.Trailer"
+        frameborder = "0"
+        allowfullscreen
+    </iframe>
+
+
+
+
+	<div class="container p-3">
+	<div class="row pt-4">
+		<div class="col-6">
+			<h3 class="text-primary">Films</h3>
+		</div>
+		<div class="col-6">
+			<a asp-page="Create" class="btn btn-primary">
+				Add New Film
+			</a>
+		</div>
+	</div>
+</div>
+
+<br /> <br /> <br />
+
+<table class="table table-bordered table-striped">
+	<thead>
+		<tr>
+			<th>Films</th>
+			<th>Description</th>
+			<th>Duration</th>
+			<th>Age Rating</th>
+		</tr>
+	</thead>
+	<tbody>
+	atneededforeach (var obj in Model.Films)
+	{
+					<tr>
+						<td width="40%">atneededobj.FilmName</td>
+						<td width="40%">obj.Description</td>
+						<td width="40%">obj.Duration</td>
+						<td width="40%">obj.ageRating</td>
+					</tr>
+	}
+	</tbody>
+</table>
+</div>-->

@@ -64,6 +64,9 @@ namespace RP1.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("ImageName")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Trailer")
                         .HasColumnType("nvarchar(max)");
 

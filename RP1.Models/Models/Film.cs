@@ -17,6 +17,8 @@ namespace RP1.Models.Models
 
         public string Trailer { get; set; }
 
+        public string ImageName { get; set; }
+
         public List<Screening> Screenings { get; set; }
     }
 }
