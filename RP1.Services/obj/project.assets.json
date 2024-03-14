@@ -9252,11 +9252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.Services\\RP1.Services.csproj",
+      "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Services\\RP1.Services.csproj",
       "projectName": "RP1.Services",
-      "projectPath": "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.Services\\RP1.Services.csproj",
+      "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Services\\RP1.Services.csproj",
       "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.Services\\obj\\",
+      "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9278,11 +9278,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.DataAccess\\RP1.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.DataAccess\\RP1.DataAccess.csproj"
+            "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj"
             },
-            "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.Models\\RP1.Models.csproj": {
-              "projectPath": "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.Models\\RP1.Models.csproj"
+            "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
+              "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.DataAccess\\RP1.DataAccess.csproj": {}
+    "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.DataAccess\\RP1.DataAccess.csproj": {
+    "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.DataAccess\\RP1.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj",
         "projectName": "RP1.DataAccess",
-        "projectPath": "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.DataAccess\\RP1.DataAccess.csproj",
+        "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj",
         "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.Models\\RP1.Models.csproj": {
-                "projectPath": "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.Models\\RP1.Models.csproj"
+              "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
+                "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.Models\\RP1.Models.csproj": {
+    "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.Models\\RP1.Models.csproj",
+        "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj",
         "projectName": "RP1.Models",
-        "projectPath": "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.Models\\RP1.Models.csproj",
+        "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj",
         "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L00169531\\Downloads\\TeamProject(1)\\TeamProject\\RP1.Models\\obj\\",
+        "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
