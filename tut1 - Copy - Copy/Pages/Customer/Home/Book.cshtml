@@ -1,5 +1,22 @@
 ﻿@page
 @model tut1.Pages.Customer.Home.BookModel
 @{
-	<p>filler</p>
+	<select>
+		@foreach (var Type in Model.listOfTypes)
+		{
+			<option value="@Type.Id">@Type.TypeName</option>
+		}
+	</select>
+
+	<div class="mb-3">
+		<label asp-for="@Model.Booking.SeatAmount"></label>
+		<input asp-for="@Model.Booking.SeatAmount" class="form-control" />
+		<span asp-validation-for="@Model.Booking.SeatAmount" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="@Model.Booking.Cost"></label>
+		<!--<span asp-for="atneededModel.Booking.Cost">$atneeded(Type.Price * Booking.SeatAmount)</span>-->
+		<span asp-validation-for="@Model.Booking.Cost" class="text-danger"></span>
+	</div>
 }
