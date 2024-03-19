@@ -16,7 +16,11 @@ namespace tut1.Pages.Customer.Home
 		}
 
 		public IEnumerable<Screening> listOfScreenings { get; set; }
+
+		//[BindProperty]
 		public Film Film { get; set; }
+
+		public Screening Screening { get; set; }
 
 		public IEnumerable<Film> listOfFilms { get; set; }
 		public void OnGet(int Id)

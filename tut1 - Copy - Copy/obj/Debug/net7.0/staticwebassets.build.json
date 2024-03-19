@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tEjqLOpahMfBRaTsa3doRDqk0+s9BCvhWUm7jkz8XHo=",
+  "Hash": "4vb0pA/foMHfHxjpCoVijyLMhcPy178nlIMxrjjDf6s=",
   "Source": "tut1",
   "BasePath": "_content/tut1",
   "Mode": "Default",
@@ -136,6 +136,23 @@
       "OriginalItemSpec": "wwwroot\\Images\\Films\\06050fb1-d60b-4f97-80fa-0013abfb490e.jpg"
     },
     {
+      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
+      "SourceId": "tut1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "BasePath": "_content/tut1",
+      "RelativePath": "Images/Films/168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Films\\168dd146-0c24-4e01-9ad0-91bd8455af24.jpg"
+    },
+    {
       "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\3df7c1c8-b9ab-40e9-ae1e-457a8896f68d.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -219,6 +236,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Films\\copper.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\f21055ca-abc6-4189-872f-8c2892fa4c2d.jpg",
+      "SourceId": "tut1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "BasePath": "_content/tut1",
+      "RelativePath": "Images/Films/f21055ca-abc6-4189-872f-8c2892fa4c2d.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Films\\f21055ca-abc6-4189-872f-8c2892fa4c2d.jpg"
     },
     {
       "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\js\\site.js",

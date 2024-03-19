@@ -2,7 +2,8 @@
 @model tut1.Pages.Customer.Home.OrderModel
 @{
     <div class="">
-        <form method="post">
+		<form method="post" enctype="multipart/form-data">
+			<input asp-for="Film.Id" hidden />
 
             <div class="container backgroundWhite">
                 <div class="card">
@@ -15,7 +16,16 @@
                     </div>
 					@foreach (var Screening in Model.listOfScreenings)
 					{
-						<h2 class="text-success pl-1"><b>@Screening.Date</b></h2>
+						<div class="container rounded p-2">
+							<div class="row">
+								<div class="col-12 col">
+									<h2 class="text-success pl-1"><b>@Screening.Date</b></h2>
+									<div class="col-12 col-md-6 ">
+										<a asp-page="Book" asp-route-id="@Model.Film.Id" button type="submit" class="btn btn-primary btn-square form-control" style="height:50px;">Book</a>
+									</div>
+								</div>
+							</div>
+						</div>	
 						<div class="col-12">
 							<div class="row my-3">
 
