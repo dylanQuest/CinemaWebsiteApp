@@ -7,7 +7,7 @@ using Type = RP1.Models.Models.Type;
 
 namespace tut1.Pages.Customer.Home
 {
-    public class BookModel : PageModel
+    public class BookingMadeModel : PageModel
     {
 		private readonly IUnitOfWork _unitOfWork;
 
@@ -23,7 +23,7 @@ namespace tut1.Pages.Customer.Home
 
 		public Ticket Ticket { get; set; }
 
-		public BookModel(IUnitOfWork unitOfWork)
+		public BookingMadeModel(IUnitOfWork unitOfWork)
 		{
 			_unitOfWork = unitOfWork;
 		}
@@ -37,16 +37,6 @@ namespace tut1.Pages.Customer.Home
 			});
 
 			listOfTypes = _unitOfWork.TypeRepo.GetAll();
-		}
-
-		public IActionResult OnPost(Booking booking)
-		{
-			if (ModelState.IsValid)
-			{
-				_unitOfWork.BookingRepo.Add(booking);
-				_unitOfWork.Save();
-			}
-			return RedirectToPage("BookingMade");
 		}
 
 	}

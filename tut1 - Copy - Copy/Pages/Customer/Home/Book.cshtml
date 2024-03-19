@@ -1,22 +1,69 @@
 ﻿@page
 @model tut1.Pages.Customer.Home.BookModel
 @{
-	<select>
-		@foreach (var Type in Model.listOfTypes)
+	@foreach (var Type in Model.listOfTypes)
+	{
+		<span>@Type.TypeName</span>
+		<span>Price: @Type.Cost</span>
+
+		<div class="mb-3">
+			<label asp-for="@Model.Booking.SeatAmount"></label>
+			<input asp-for="@Model.Booking.SeatAmount" class="form-control" />
+			<span asp-validation-for="@Model.Booking.SeatAmount" class="text-danger"></span>
+		</div>
+	}
+
+	<div class="mb-3">
+		<label asp-for="@Model.Booking.Email"></label>
+		<input asp-for="@Model.Booking.Email"  />
+		<span asp-validation-for="@Model.Booking.Email" class="text-danger"></span>
+	</div>
+
+	<label>Credit Card Number</label>
+	<input/>
+
+	<label>CCV</label>
+	<input />
+
+	<div class="col-12 col-md-6 ">
+		<a asp-page="BookingMade" button type="submit" class="btn btn-primary btn-square form-control" style="height:50px;">Book</a>
+	</div>
+
+	<!--<div class="mb-3">
+		<label asp-for="attneededModel.Type.TypeName"></label>
+		<select id="typeSelect" asp-for="atneededModel.Type.Id" asp-items="atneededModel.listOfTypesItems" class="form-control" onchange="displayCost()">
+			<option disabled selected="selected Type ---"> </option>
+		</select>
+		<span asp-validation-for="atneededModel.Type.Id" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		foreach (var Type in Model.listOfTypes)
 		{
-			<option value="@Type.Id">@Type.TypeName</option>
+			if(Type.Id == selectedValue)
+			{
+				<span>Type.Cost</span>
+			}
 		}
-	</select>
+	</div>-->
 
 	<div class="mb-3">
-		<label asp-for="@Model.Booking.SeatAmount"></label>
-		<input asp-for="@Model.Booking.SeatAmount" class="form-control" />
-		<span asp-validation-for="@Model.Booking.SeatAmount" class="text-danger"></span>
+		<span id="cost"></span>
 	</div>
 
-	<div class="mb-3">
-		<label asp-for="@Model.Booking.Cost"></label>
-		<!--<span asp-for="atneededModel.Booking.Cost">$atneeded(Type.Price * Booking.SeatAmount)</span>-->
-		<span asp-validation-for="@Model.Booking.Cost" class="text-danger"></span>
-	</div>
+	@section Scripts {
+		<script>
+			var costs = {};
+			@foreach (var type in Model.listOfTypes)
+			{
+				@:costs["@type.Id"] = @type.Cost;
+			}
+			console.log(costs);
+
+				function displayCost() {
+					var selectedTypeId = document.getElementById('typeSelect').value;
+					document.getElementById('cost').innerText = costs[selectedTypeId] || '';
+				}
+		</script>
+	}
 }
