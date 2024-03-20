@@ -1,21 +1,44 @@
 ﻿@page
 @model tut1.Pages.Customer.Home.BookModel
 @{
+	<form method="post" enctype="multipart/form-data">
 	@foreach (var Type in Model.listOfTypes)
 	{
 		<span>@Type.TypeName</span>
 		<span>Price: @Type.Cost</span>
 
 		<div class="mb-3">
-			<label asp-for="@Model.Booking.SeatAmount"></label>
-			<input asp-for="@Model.Booking.SeatAmount" class="form-control" />
-			<span asp-validation-for="@Model.Booking.SeatAmount" class="text-danger"></span>
+				<label>Seat Amount</label>
+				<input class="seats" type="number" value="0" min="0" max="24" onchange="displayCost" />
 		</div>
 	}
 
 	<div class="mb-3">
+		<input type="hidden" id="totalSeats" asp-for="@Model.Booking.SeatAmount" />
+		<span asp-validation-for="@Model.Booking.SeatAmount" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<input type="hidden" id="totalSeats" asp-for="@Model.ticketCount" />
+		<span asp-validation-for="@Model.ticketCount" class="text-danger"></span>
+	</div>
+
+	<div class="col-12 col-md-6 ">
+			<button class="btn btn-primary btn-square" style="height:50px;" onclick="event.preventDefault(); test()">Confirm Seats</button>
+	</div>
+
+
+	<div class="mb-3">
+		<label asp-for="@Model.Booking.Cost"></label>
+		<input id="cost" asp-for="@Model.Booking.Cost" readonly />
+		<span asp-validation-for="@Model.Booking.Cost" class="text-danger"></span>
+			<!--<label>Total Cost:</label>
+			<span id="cost"></span>-->
+	</div>
+
+	<div class="mb-3">
 		<label asp-for="@Model.Booking.Email"></label>
-		<input asp-for="@Model.Booking.Email"  />
+		<input asp-for="@Model.Booking.Email" />
 		<span asp-validation-for="@Model.Booking.Email" class="text-danger"></span>
 	</div>
 
@@ -26,44 +49,72 @@
 	<input />
 
 	<div class="col-12 col-md-6 ">
-		<a asp-page="BookingMade" button type="submit" class="btn btn-primary btn-square form-control" style="height:50px;">Book</a>
+		<button type="submit" class="btn btn-primary btn-square form-control" style="height:50px;">Book</button>
 	</div>
+</form>
 
 	<!--<div class="mb-3">
-		<label asp-for="attneededModel.Type.TypeName"></label>
-		<select id="typeSelect" asp-for="atneededModel.Type.Id" asp-items="atneededModel.listOfTypesItems" class="form-control" onchange="displayCost()">
-			<option disabled selected="selected Type ---"> </option>
-		</select>
-		<span asp-validation-for="atneededModel.Type.Id" class="text-danger"></span>
+	<label asp-for="attneededModel.Type.TypeName"></label>
+	<select id="typeSelect" asp-for="atneededModel.Type.Id" asp-items="atneededModel.listOfTypesItems" class="form-control" onchange="displayCost()">
+	<option disabled selected="selected Type ---"> </option>
+	</select>
+	<span asp-validation-for="atneededModel.Type.Id" class="text-danger"></span>
 	</div>
 
 	<div class="mb-3">
-		foreach (var Type in Model.listOfTypes)
-		{
-			if(Type.Id == selectedValue)
-			{
-				<span>Type.Cost</span>
-			}
-		}
+	foreach (var Type in Model.listOfTypes)
+	{
+	if(Type.Id == selectedValue)
+	{
+	<span>Type.Cost</span>
+	}
+	}
 	</div>-->
 
-	<div class="mb-3">
-		<span id="cost"></span>
-	</div>
+
 
 	@section Scripts {
-		<script>
-			var costs = {};
+	<script>
+			var costs = [];
 			@foreach (var type in Model.listOfTypes)
 			{
-				@:costs["@type.Id"] = @type.Cost;
+				@:costs["@type.Id"-1] = @type.Cost;
 			}
 			console.log(costs);
 
-				function displayCost() {
-					var selectedTypeId = document.getElementById('typeSelect').value;
-					document.getElementById('cost').innerText = costs[selectedTypeId] || '';
+			var totalCost = 0;
+			var totalSeats = 0;
+			function test(){
+				var seatsGetAll = document.getElementsByClassName('seats');
+				totalCost = 0;
+				totalSeats = 0;
+
+				var seatTotal = [];
+				Array.from(seatsGetAll).forEach((SC) => {
+					seatTotal.push(SC.value);
+				});
+
+				for (var i = 0; i < seatTotal.length; i++) {
+					console.log(seatTotal[i]);
+					console.log(costs[i]);
+
+					totalCost += parseInt(seatTotal[i]) * parseInt(costs[i]);
+
+					totalSeats += parseInt(seatTotal[i]);
 				}
-		</script>
+
+				console.log(totalCost);
+				//console.log(seatscost);
+
+				document.getElementById('cost').value = totalCost;
+				document.getElementById('totalSeats').value = totalSeats;
+
+			}
+
+			function displayCost() {
+				var selectedTypeId = document.getElementById('typeSelect').value;
+				document.getElementById('cost').value = costs[selectedTypeId] || '';
+			}
+	</script>
 	}
 }

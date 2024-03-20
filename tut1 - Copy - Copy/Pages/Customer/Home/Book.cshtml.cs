@@ -23,6 +23,9 @@ namespace tut1.Pages.Customer.Home
 
 		public Ticket Ticket { get; set; }
 
+		public int ticketCount { get; set; }
+		public IEnumerable<Type> listOfTIckets { get; set; }
+
 		public BookModel(IUnitOfWork unitOfWork)
 		{
 			_unitOfWork = unitOfWork;
@@ -44,6 +47,20 @@ namespace tut1.Pages.Customer.Home
 			if (ModelState.IsValid)
 			{
 				_unitOfWork.BookingRepo.Add(booking);
+				_unitOfWork.Save();
+
+				//Type = _unitOfWork.TypeRepo.Get(booking.TypeId);
+				//Screening = _unitOfWork.ScreeningRepo.Get(booking.ScreeningId);
+
+				for (int i = 0; i < ticketCount; i++)
+				{
+					Ticket ticket = new Ticket();
+					ticket.bookingId = booking.Id;
+					ticket.typeId = Type.Id;
+					ticket.screeningId = Screening.Id;
+					_unitOfWork.TicketRepo.Add(ticket);
+				}
+
 				_unitOfWork.Save();
 			}
 			return RedirectToPage("BookingMade");
