@@ -18,8 +18,19 @@
 		<span asp-validation-for="@Model.Booking.SeatAmount" class="text-danger"></span>
 	</div>
 
+		<!--<div class="mb-3">
+			<input type="hidden" id="adultTicCount" asp-for="attneededModel.Booking.SeatAmount" />
+			<span asp-validation-for="atneededModel.Booking.SeatAmount" class="text-danger"></span>
+		</div>
+
+		<div class="mb-3">
+			<input type="hidden" id="childTicCount" asp-for="atneededModel.Booking.SeatAmount" />
+			<span asp-validation-for="atneededModel.Booking.SeatAmount" class="text-danger"></span>
+		</div>-->
+	
+
 	<div class="mb-3">
-		<input type="hidden" id="totalSeats" asp-for="@Model.ticketCount" />
+		<input type="hidden" id="ticketCount" asp-for="@Model.ticketCount" />
 		<span asp-validation-for="@Model.ticketCount" class="text-danger"></span>
 	</div>
 
@@ -49,7 +60,7 @@
 	<input />
 
 	<div class="col-12 col-md-6 ">
-		<button type="submit" class="btn btn-primary btn-square form-control" style="height:50px;">Book</button>
+			<button type="submit" class="btn btn-primary btn-square form-control" style="height:50px;">Book</button>
 	</div>
 </form>
 
@@ -104,11 +115,12 @@
 				}
 
 				console.log(totalCost);
+
 				//console.log(seatscost);
 
 				document.getElementById('cost').value = totalCost;
 				document.getElementById('totalSeats').value = totalSeats;
-
+				document.getElementById('ticketCount').value = totalSeats
 			}
 
 			function displayCost() {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DcT2CX01jwU+24hlMm+kITOrvErO/4tNPEq+Bhc/noQ=",
+  "Hash": "IOoG7yfr3YN1WXsnmKYA5vd982FSyZ9yCN2uzfdq57s=",
   "Source": "tut1",
   "BasePath": "_content/tut1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "tut1\\wwwroot",
       "Source": "tut1",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\bundle\\tut1.styles.css",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\bundle\\tut1.styles.css",
       "SourceId": "tut1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/tut1",
       "RelativePath": "tut1.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\bundle\\tut1.styles.css"
+      "OriginalItemSpec": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\bundle\\tut1.styles.css"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\tut1.bundle.scp.css",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\tut1.bundle.scp.css",
       "SourceId": "tut1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/tut1",
       "RelativePath": "tut1.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\tut1.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\tut1.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap2.css",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap2.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "css/bootstrap2.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap2.css"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\css\\site.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\favicon.ico",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\06050fb1-d60b-4f97-80fa-0013abfb490e.jpg",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\06050fb1-d60b-4f97-80fa-0013abfb490e.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/06050fb1-d60b-4f97-80fa-0013abfb490e.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Films\\06050fb1-d60b-4f97-80fa-0013abfb490e.jpg"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Films\\168dd146-0c24-4e01-9ad0-91bd8455af24.jpg"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\3db193c1-7756-4dc1-95ac-c5a19d47d344.jpg",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\3db193c1-7756-4dc1-95ac-c5a19d47d344.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/3db193c1-7756-4dc1-95ac-c5a19d47d344.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Films\\3db193c1-7756-4dc1-95ac-c5a19d47d344.jpg"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\3df7c1c8-b9ab-40e9-ae1e-457a8896f68d.jpg",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\3df7c1c8-b9ab-40e9-ae1e-457a8896f68d.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/3df7c1c8-b9ab-40e9-ae1e-457a8896f68d.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Films\\3df7c1c8-b9ab-40e9-ae1e-457a8896f68d.jpg"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\7fc55962-8ce2-419a-97aa-28b0a625748e.jpg",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\7fc55962-8ce2-419a-97aa-28b0a625748e.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/7fc55962-8ce2-419a-97aa-28b0a625748e.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Films\\7fc55962-8ce2-419a-97aa-28b0a625748e.jpg"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\83f6059d-63ef-4576-8f4a-1b876c0094ae.jpg",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\83f6059d-63ef-4576-8f4a-1b876c0094ae.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/83f6059d-63ef-4576-8f4a-1b876c0094ae.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Films\\83f6059d-63ef-4576-8f4a-1b876c0094ae.jpg"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\8481a19d-78ec-46b6-bb83-028c5140d6d3.jpg",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\8481a19d-78ec-46b6-bb83-028c5140d6d3.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/8481a19d-78ec-46b6-bb83-028c5140d6d3.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Films\\8481a19d-78ec-46b6-bb83-028c5140d6d3.jpg"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\copper.jpg",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\copper.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/copper.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Films\\copper.jpg"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\f21055ca-abc6-4189-872f-8c2892fa4c2d.jpg",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\f21055ca-abc6-4189-872f-8c2892fa4c2d.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/f21055ca-abc6-4189-872f-8c2892fa4c2d.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Films\\f21055ca-abc6-4189-872f-8c2892fa4c2d.jpg"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\js\\site.js",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00169531\\source\\repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",

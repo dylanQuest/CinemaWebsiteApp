@@ -23,7 +23,10 @@ namespace tut1.Pages.Customer.Home
 
 		public Ticket Ticket { get; set; }
 
+		[BindProperty]
 		public int ticketCount { get; set; }
+		public int adultTicCount { get; set; }
+		public int childTicCount { get; set; }
 		public IEnumerable<Type> listOfTIckets { get; set; }
 
 		public BookModel(IUnitOfWork unitOfWork)
@@ -32,6 +35,7 @@ namespace tut1.Pages.Customer.Home
 		}
 		public void OnGet()
         {
+
 			//listOfTypes = _unitOfWork.TypeRepo.GetAll();
 			listOfTypesItems = _unitOfWork.TypeRepo.GetAll().Select(i => new SelectListItem()
 			{
@@ -56,8 +60,9 @@ namespace tut1.Pages.Customer.Home
 				{
 					Ticket ticket = new Ticket();
 					ticket.bookingId = booking.Id;
-					ticket.typeId = Type.Id;
-					ticket.screeningId = Screening.Id;
+					//Type = _unitOfWork.TypeRepo.Get(1); //Type.Id       use getall, put into ienumerable, get page to count adult and child tics, for loop for each of these 
+					ticket.typeId = 1; //Type.Id
+					ticket.screeningId = 1; //Screening.Id				get the screening using the screening id from the page
 					_unitOfWork.TicketRepo.Add(ticket);
 				}
 
