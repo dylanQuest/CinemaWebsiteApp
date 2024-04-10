@@ -1382,3 +1382,4 @@ C:\Users\L00169531\Source\Repos\team-1-project\tut1 - Copy - Copy\obj\Debug\net7
 C:\Users\L00169531\Source\Repos\team-1-project\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.pdb
 C:\Users\L00169531\Source\Repos\team-1-project\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.genruntimeconfig.cache
 C:\Users\L00169531\Source\Repos\team-1-project\tut1 - Copy - Copy\obj\Debug\net7.0\ref\tut1.dll
+C:\Users\L00169531\Source\Repos\team-1-project\tut1 - Copy - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

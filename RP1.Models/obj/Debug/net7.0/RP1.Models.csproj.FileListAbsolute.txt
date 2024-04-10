@@ -140,3 +140,4 @@ C:\Users\L00169531\Source\Repos\team-1-project\RP1.Models\obj\Debug\net7.0\RP1.M
 C:\Users\L00169531\Source\Repos\team-1-project\RP1.Models\obj\Debug\net7.0\refint\RP1.Models.dll
 C:\Users\L00169531\Source\Repos\team-1-project\RP1.Models\obj\Debug\net7.0\RP1.Models.pdb
 C:\Users\L00169531\Source\Repos\team-1-project\RP1.Models\obj\Debug\net7.0\ref\RP1.Models.dll
+C:\Users\L00169531\Source\Repos\team-1-project\RP1.Models\obj\Debug\net7.0\RP1.Models.csproj.AssemblyReference.cache
