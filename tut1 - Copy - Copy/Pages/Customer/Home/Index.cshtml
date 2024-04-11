@@ -13,13 +13,16 @@
 			</form>
 		</p>
 	</div>
+
+	<div class="col-12">
 	<div class="row my-3">
 	@foreach (var Film in Model.listOfFilms)
 	{
+				<div class="col-lg-4 col-md-6 pb-4 filter">
 		<h2 class="text-success pl-1"><b>@Film.FilmName</b></h2>
 		<div class="col-12">
 			<div class="row my-3">
-					<div class="col-lg-4 col-md-6 pb-4 filter">
+					
 						<div class="card bg-white rounded shadow-sm" style="border:1px solid #222">
 							<img class="card-img-top img-fluid d-block mx-auto mb-3" src="@Film.ImageName" alt="menuitem image">
 							<div class="card-body p-1 px-3 row">
@@ -28,10 +31,12 @@
 								</div>
 							</div>
 						</div>
-					</div>
+					
 			</div>
 		</div>
+		</div>
 	}
+	</div>
 	</div>
 </div>
 
