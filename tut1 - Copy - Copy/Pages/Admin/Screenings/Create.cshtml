@@ -24,7 +24,7 @@
         </div>
         <div class="mb-3">
             <label asp-for="@Model.Screening.Date"></label>
-            <input asp-for="@Model.Screening.Date" class="form-control" />
+            <input asp-for="@Model.Screening.Date" class="form-control" min="@DateTime.Now.ToString("yyyy-MM-ddThh:mm")" />
             <span asp-validation-for="@Model.Screening.Date" class="text-danger"></span>
         </div>
         <div class="mb-3">

@@ -4,12 +4,12 @@
 	<div class="border p-3 mt-4">
 		<div asp-validation-summary="All" class="text-danger"></div>
 		<div class="row pb-2">
-			<h2 class="text-primary pl-3">
+			<h2 class="text-primary text-light pl-3">
 				Register
 			</h2>
 		</div>
 		<div class="mb-3">
-			<label asp-for="@Model.Register.EmailAddress"></label>
+			<label asp-for="@Model.Register.EmailAddress">Email Address</label>
 			<input asp-for="@Model.Register.EmailAddress" class="form-control" />
 			<span asp-validation-for="Register.EmailAddress" class="text-danger"></span>
 		</div>
@@ -19,7 +19,7 @@
 			<span asp-validation-for="Register.Password" class="text-danger"></span>
 		</div>
 		<div class="mb-3">
-			<label asp-for="@Model.Register.ConfirmPassword"></label>
+			<label asp-for="@Model.Register.ConfirmPassword">Confirm Password</label>
 			<input asp-for="@Model.Register.ConfirmPassword" class="form-control" />
 			<span asp-validation-for="Register.ConfirmPassword" class="text-danger"></span>
 		</div>
