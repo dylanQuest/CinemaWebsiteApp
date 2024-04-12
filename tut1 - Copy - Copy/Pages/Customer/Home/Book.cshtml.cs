@@ -60,9 +60,9 @@ namespace tut1.Pages.Customer.Home
 				_unitOfWork.BookingRepo.Add(booking);
 				_unitOfWork.Save();
 
-				//Type = _unitOfWork.TypeRepo.Get(booking.TypeId);
-				//Screening = _unitOfWork.ScreeningRepo.Get(booking.ScreeningId);
-				for (int i = 0; i < adultTicCount; i++)
+                //Type = _unitOfWork.TypeRepo.Get(booking.TypeId);
+                //Screening = _unitOfWork.ScreeningRepo.Get(booking.ScreeningId);
+                for (int i = 0; i < adultTicCount; i++)
 				{
 					Ticket ticket = new Ticket();
 					ticket.bookingId = booking.Id;
@@ -70,7 +70,8 @@ namespace tut1.Pages.Customer.Home
 					ticket.typeId = GetAdultTicketTypeId();
 					ticket.screeningId = ScreeningId;               //maybe get the screening using the screening id from the page
 					_unitOfWork.TicketRepo.Add(ticket);
-				}
+                    _unitOfWork.ScreeningRepo.Get(ScreeningId).seatsRemaining -= 1;
+                }
 
 				for (int i = 0; i < childTicCount; i++)
 				{
@@ -80,7 +81,8 @@ namespace tut1.Pages.Customer.Home
 					ticket.typeId = GetChildTicketTypeId();
 					ticket.screeningId = ScreeningId;				//maybe get the screening using the screening id from the page
 					_unitOfWork.TicketRepo.Add(ticket);
-				}
+                    _unitOfWork.ScreeningRepo.Get(ScreeningId).seatsRemaining -= 1;
+                }
 
 				_unitOfWork.Save();
 			}
