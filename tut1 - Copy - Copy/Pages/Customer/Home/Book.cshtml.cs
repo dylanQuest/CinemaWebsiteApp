@@ -38,6 +38,7 @@ namespace tut1.Pages.Customer.Home
 		public BookModel(IUnitOfWork unitOfWork)
 		{
 			_unitOfWork = unitOfWork;
+			listOfTypes = _unitOfWork.TypeRepo.GetAll();
 		}
 		public void OnGet(int screeningId)
         {
