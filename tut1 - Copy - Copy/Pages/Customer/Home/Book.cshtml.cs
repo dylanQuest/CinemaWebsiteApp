@@ -12,6 +12,10 @@ namespace tut1.Pages.Customer.Home
 		private readonly IUnitOfWork _unitOfWork;
 
 
+		[BindProperty]
+		public int ScreeningId { get; set; }
+
+
 		public Screening Screening { get; set; }
 
 		public Booking Booking { get; set; }
@@ -25,7 +29,9 @@ namespace tut1.Pages.Customer.Home
 
 		[BindProperty]
 		public int ticketCount { get; set; }
+		[BindProperty]
 		public int adultTicCount { get; set; }
+		[BindProperty]
 		public int childTicCount { get; set; }
 		public IEnumerable<Type> listOfTIckets { get; set; }
 
@@ -33,9 +39,9 @@ namespace tut1.Pages.Customer.Home
 		{
 			_unitOfWork = unitOfWork;
 		}
-		public void OnGet()
+		public void OnGet(int screeningId)
         {
-
+			ScreeningId = screeningId;
 			//listOfTypes = _unitOfWork.TypeRepo.GetAll();
 			listOfTypesItems = _unitOfWork.TypeRepo.GetAll().Select(i => new SelectListItem()
 			{
@@ -55,20 +61,44 @@ namespace tut1.Pages.Customer.Home
 
 				//Type = _unitOfWork.TypeRepo.Get(booking.TypeId);
 				//Screening = _unitOfWork.ScreeningRepo.Get(booking.ScreeningId);
-
-				for (int i = 0; i < ticketCount; i++)
+				for (int i = 0; i < adultTicCount; i++)
 				{
 					Ticket ticket = new Ticket();
 					ticket.bookingId = booking.Id;
 					//Type = _unitOfWork.TypeRepo.Get(1); //Type.Id       use getall, put into ienumerable, get page to count adult and child tics, for loop for each of these 
-					ticket.typeId = 1; //Type.Id
-					ticket.screeningId = 1; //Screening.Id				get the screening using the screening id from the page
+					ticket.typeId = GetAdultTicketTypeId();
+					ticket.screeningId = ScreeningId;               //maybe get the screening using the screening id from the page
+					_unitOfWork.TicketRepo.Add(ticket);
+				}
+
+				for (int i = 0; i < childTicCount; i++)
+				{
+					Ticket ticket = new Ticket();
+					ticket.bookingId = booking.Id;
+					//Type = _unitOfWork.TypeRepo.Get(1); //Type.Id       use getall, put into ienumerable, get page to count adult and child tics, for loop for each of these 
+					ticket.typeId = GetChildTicketTypeId();
+					ticket.screeningId = ScreeningId;				//maybe get the screening using the screening id from the page
 					_unitOfWork.TicketRepo.Add(ticket);
 				}
 
 				_unitOfWork.Save();
 			}
 			return RedirectToPage("BookingMade");
+		}
+
+		private int GetAdultTicketTypeId()
+		{
+			// Retrieve the adult ticket type ID based on its name
+			var adultType = listOfTypes.FirstOrDefault(t => t.TypeName == "Adult");
+			return adultType?.Id ?? 0; // Return 0 if adult ticket type is not found
+		}
+
+		// Placeholder method to retrieve the child ticket type ID
+		private int GetChildTicketTypeId()
+		{
+			// Retrieve the child ticket type ID based on its name
+			var childType = listOfTypes.FirstOrDefault(t => t.TypeName == "Child");
+			return childType?.Id ?? 0; // Return 0 if child ticket type is not found
 		}
 
 	}

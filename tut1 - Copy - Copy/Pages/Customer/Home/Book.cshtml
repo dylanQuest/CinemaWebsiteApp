@@ -2,16 +2,14 @@
 @model tut1.Pages.Customer.Home.BookModel
 @{
 	<form method="post" enctype="multipart/form-data">
-	@foreach (var Type in Model.listOfTypes)
-	{
-		<span>@Type.TypeName</span>
-		<span>Price: @Type.Cost</span>
-
 		<div class="mb-3">
-				<label>Seat Amount</label>
-				<input class="seats" type="number" value="0" min="0" max="24" onchange="displayCost" />
+			<label>Adult Tickets</label>
+			<input asp-for="adultTicCount" type="number" class="form-control seats" min="0" />
 		</div>
-	}
+		<div class="mb-3">
+			<label>Child Tickets</label>
+			<input asp-for="childTicCount" type="number" class="form-control seats" min="0" />
+		</div>
 
 	<div class="mb-3">
 		<input type="hidden" id="totalSeats" asp-for="@Model.Booking.SeatAmount" />
@@ -110,7 +108,7 @@
 					console.log(seatTotal[i]);
 					console.log(costs[i]);
 
-					totalCost += parseInt(seatTotal[i]) * parseInt(costs[i]);
+					totalCost += parseInt(seatTotal[i]) * parseFloat(costs[i]);
 
 					totalSeats += parseInt(seatTotal[i]);
 				}
