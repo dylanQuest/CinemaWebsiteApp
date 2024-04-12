@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bwSMfo4Oe6c1hBf5IYtXWz06sU9QjT5Q/8GxCU3dcbw=",
+  "Hash": "WTeSnhpbQnK1MC4wvXPLo+ooXDcRYK0cKXTFa6wF0wo=",
   "Source": "tut1",
   "BasePath": "_content/tut1",
   "Mode": "Default",
@@ -338,6 +338,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Films\\8481a19d-78ec-46b6-bb83-028c5140d6d3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\c517331c-0b13-47ce-99f8-78058ac62edc.jpg",
+      "SourceId": "tut1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "BasePath": "_content/tut1",
+      "RelativePath": "Images/Films/c517331c-0b13-47ce-99f8-78058ac62edc.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Films\\c517331c-0b13-47ce-99f8-78058ac62edc.jpg"
     },
     {
       "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\copper.jpg",
