@@ -30,7 +30,13 @@ namespace TeamProject.Pages.Admin.Films
             var files = HttpContext.Request.Form.Files;
             var filmFromDB = _unitOfWork.FilmRepo.Get(Film.Id);
 
-            if (files.Count > 0)
+			filmFromDB.FilmName = Film.FilmName;
+			filmFromDB.Description = Film.Description;
+			filmFromDB.ageRating = Film.ageRating;
+			filmFromDB.Duration = Film.Duration;
+			filmFromDB.Trailer = Film.Trailer;
+
+			if (files.Count > 0)
             {
                 string new_filename = Guid.NewGuid().ToString();
 
