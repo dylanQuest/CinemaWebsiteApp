@@ -3415,6 +3415,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.23",
           "RP1.DataAccess": "1.0.0",
           "RP1.Models": "1.0.0"
         },

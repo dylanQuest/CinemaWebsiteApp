@@ -91,17 +91,15 @@ namespace tut1.Pages.Customer.Home
 
 		private int GetAdultTicketTypeId()
 		{
-			// Retrieve the adult ticket type ID based on its name
+			// Retrieve the ticket type ID based on its name
 			var adultType = listOfTypes.FirstOrDefault(t => t.TypeName == "Adult");
-			return adultType?.Id ?? 0; // Return 0 if adult ticket type is not found
+			return adultType?.Id ?? 0; // Return 0 if  not found
 		}
 
-		// Placeholder method to retrieve the child ticket type ID
 		private int GetChildTicketTypeId()
 		{
-			// Retrieve the child ticket type ID based on its name
 			var childType = listOfTypes.FirstOrDefault(t => t.TypeName == "Child");
-			return childType?.Id ?? 0; // Return 0 if child ticket type is not found
+			return childType?.Id ?? 0;
 		}
 
 	}

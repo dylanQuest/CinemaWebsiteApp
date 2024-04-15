@@ -12,17 +12,17 @@
 
         <div class="mb-3">
             <label asp-for="@Model.Ticket.bookingId">Booking</label>
-            <input asp-for="@Model.Ticket.bookingId" class="form-control" />
+            <input asp-for="@Model.Ticket.bookingId" class="form-control" readonly />
             <span asp-validation-for="@Model.Ticket.bookingId" class="text-danger"></span>
         </div>
         <div class="mb-3">
             <label asp-for="@Model.Ticket.typeId">Type</label>
-            <input asp-for="@Model.Ticket.typeId" class="form-control" />
+            <input asp-for="@Model.Ticket.typeId" class="form-control" readonly />
             <span asp-validation-for="@Model.Ticket.typeId" class="text-danger"></span>
         </div>
         <div class="mb-3">
             <label asp-for="@Model.Ticket.screeningId">Screening</label>
-            <input asp-for="@Model.Ticket.screeningId" class="form-control" />
+            <input asp-for="@Model.Ticket.screeningId" class="form-control" readonly />
             <span asp-validation-for="@Model.Ticket.screeningId" class="text-danger"></span>
         </div>
     <button type="submit" class="btn btn-primary">Delete</button>

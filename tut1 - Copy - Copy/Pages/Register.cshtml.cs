@@ -9,7 +9,6 @@ namespace tut1.Pages
     [BindProperties]
     public class RegisterModel : PageModel
     {
-
         private readonly UserManager<IdentityUser> _userManager;
         private readonly SignInManager<IdentityUser> _signInManager;
 

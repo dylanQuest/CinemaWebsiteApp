@@ -11,21 +11,21 @@
     </div>
         <div class="mb-3">
             <label asp-for="@Model.Ticket.bookingId">Booking</label>
-            <select asp-for="@Model.Ticket.bookingId" asp-items="@Model.BookingList" class="form-control">
+            <select asp-for="@Model.Ticket.bookingId" required="required" asp-items="@Model.BookingList" class="form-control">
                 <option disabled selected="selected Booking ---"> </option>
             </select>
             <span asp-validation-for="@Model.Ticket.bookingId" class="text-danger"></span>
         </div>
         <div class="mb-3">
             <label asp-for="@Model.Ticket.typeId">Type</label>
-            <select asp-for="@Model.Ticket.typeId" asp-items="@Model.TypeList" class="form-control">
+            <select asp-for="@Model.Ticket.typeId" required="required" asp-items="@Model.TypeList" class="form-control">
                 <option disabled selected="selected Type ---"> </option>
             </select>
             <span asp-validation-for="@Model.Ticket.typeId" class="text-danger"></span>
         </div>
         <div class="mb-3">
             <label asp-for="@Model.Ticket.screeningId">Screening</label>
-            <select asp-for="@Model.Ticket.screeningId" asp-items="@Model.ScreeningList" class="form-control">
+            <select asp-for="@Model.Ticket.screeningId" required="required" asp-items="@Model.ScreeningList" class="form-control">
                 <option disabled selected="selected Screening ---"> </option>
             </select>
             <span asp-validation-for="@Model.Ticket.screeningId" class="text-danger"></span>

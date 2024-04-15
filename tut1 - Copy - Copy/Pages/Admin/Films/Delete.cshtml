@@ -12,22 +12,22 @@
 
         <div class="mb-3">
             <label asp-for="@Model.Film.FilmName">Film Name</label>
-            <input asp-for="@Model.Film.FilmName" class="form-control" />
+            <input asp-for="@Model.Film.FilmName" class="form-control" readonly />
             <span asp-validation-for="@Model.Film.FilmName" class="text-danger"></span>
         </div>
         <div class="mb-3">
             <label asp-for="@Model.Film.Description"></label>
-            <input asp-for="@Model.Film.Description" class="form-control" />
+            <input asp-for="@Model.Film.Description" class="form-control" readonly />
             <span asp-validation-for="@Model.Film.Description" class="text-danger"></span>
         </div>
         <div class="mb-3">
             <label asp-for="@Model.Film.Duration"></label>
-            <input asp-for="@Model.Film.Duration" class="form-control" />
+            <input asp-for="@Model.Film.Duration" min="0" class="form-control" readonly />
             <span asp-validation-for="@Model.Film.Duration" class="text-danger"></span>
         </div>
         <div class="mb-3">
             <label asp-for="@Model.Film.ageRating">Age Rating</label>
-            <input asp-for="@Model.Film.ageRating" class="form-control" />
+            <input asp-for="@Model.Film.ageRating" min="0" class="form-control" readonly />
             <span asp-validation-for="@Model.Film.ageRating" class="text-danger"></span>
         </div>
     <button type="submit" class="btn btn-primary">Delete</button>

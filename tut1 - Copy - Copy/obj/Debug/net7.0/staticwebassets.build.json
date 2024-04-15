@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WTeSnhpbQnK1MC4wvXPLo+ooXDcRYK0cKXTFa6wF0wo=",
+  "Hash": "ILpa7b01Nxd9b/u9Od4djJKh4h+B4yvSFQkriPFNAeI=",
   "Source": "tut1",
   "BasePath": "_content/tut1",
   "Mode": "Default",
@@ -289,6 +289,23 @@
       "OriginalItemSpec": "wwwroot\\Images\\Films\\7fc55962-8ce2-419a-97aa-28b0a625748e.jpg"
     },
     {
+      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\80369c91-9559-4643-87d0-7d48bb9bc71d.jpg",
+      "SourceId": "tut1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "BasePath": "_content/tut1",
+      "RelativePath": "Images/Films/80369c91-9559-4643-87d0-7d48bb9bc71d.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Films\\80369c91-9559-4643-87d0-7d48bb9bc71d.jpg"
+    },
+    {
       "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\80d898b8-bc5b-4784-bf68-333ff960926a.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -321,6 +338,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Films\\83f6059d-63ef-4576-8f4a-1b876c0094ae.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\840f758f-6ace-47de-83b5-b3df66179778.jpg",
+      "SourceId": "tut1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
+      "BasePath": "_content/tut1",
+      "RelativePath": "Images/Films/840f758f-6ace-47de-83b5-b3df66179778.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Films\\840f758f-6ace-47de-83b5-b3df66179778.jpg"
     },
     {
       "Identity": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\8481a19d-78ec-46b6-bb83-028c5140d6d3.jpg",

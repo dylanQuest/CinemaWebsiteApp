@@ -11,7 +11,8 @@ namespace RP1.Models.Models
         [Required]
         public double Cost { get; set; }
         [Required]
-        public string? Email { get; set; }
+        [DataType(DataType.EmailAddress)]
+        public string Email { get; set; }
         public List<Ticket> Tickets { get; set; }
     }
 }

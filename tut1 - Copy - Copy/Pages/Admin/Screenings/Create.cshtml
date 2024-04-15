@@ -10,26 +10,26 @@
     </div>
         <div class="mb-3">
             <label asp-for="@Model.Screening.filmId">Film</label>
-            <select asp-for="@Model.Screening.filmId" asp-items="@Model.FilmList" class="form-control">
+            <select asp-for="@Model.Screening.filmId" asp-items="@Model.FilmList" required="required" class="form-control">
                 <option disabled selected="selected Film ---"> </option>
             </select>
             <span asp-validation-for="@Model.Screening.filmId" class="text-danger"></span>
         </div>
         <div class="mb-3">
             <label asp-for="@Model.Screening.theatreId">Theatre</label>
-            <select asp-for="@Model.Screening.theatreId" asp-items="@Model.TheatreList" class="form-control">
+            <select asp-for="@Model.Screening.theatreId" asp-items="@Model.TheatreList" required="required" class="form-control">
                 <option disabled selected="selected Theatre ---"> </option>
             </select>
             <span asp-validation-for="@Model.Screening.theatreId" class="text-danger"></span>
         </div>
         <div class="mb-3">
             <label asp-for="@Model.Screening.Date"></label>
-            <input asp-for="@Model.Screening.Date" class="form-control" min="@DateTime.Now.ToString("yyyy-MM-ddThh:mm")" />
+            <input asp-for="@Model.Screening.Date" class="form-control" required="required" min="@DateTime.Now.ToString("yyyy-MM-ddThh:mm")" />
             <span asp-validation-for="@Model.Screening.Date" class="text-danger"></span>
         </div>
         <div class="mb-3">
             <label asp-for="@Model.Screening.seatsRemaining">Seats Remaining</label>
-            <input asp-for="@Model.Screening.seatsRemaining" class="form-control" />
+            <input asp-for="@Model.Screening.seatsRemaining" required="required" min="0" class="form-control" />
             <span asp-validation-for="@Model.Screening.seatsRemaining" class="text-danger"></span>
         </div>
     <button type="submit" class="btn btn-primary">Create</button>
