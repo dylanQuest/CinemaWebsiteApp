@@ -43,6 +43,7 @@ namespace tut1.Pages.Customer.Home
 		public void OnGet(int screeningId)
         {
 			ScreeningId = screeningId;
+			Screening = _unitOfWork.ScreeningRepo.Get(screeningId);
 			//listOfTypes = _unitOfWork.TypeRepo.GetAll();
 			listOfTypesItems = _unitOfWork.TypeRepo.GetAll().Select(i => new SelectListItem()
 			{

@@ -4,11 +4,11 @@
 	<form method="post" enctype="multipart/form-data">
 		<div class="mb-3">
 			<label>Adult Tickets</label>
-			<input asp-for="adultTicCount" type="number" class="form-control seats" min="0" />
+			<input asp-for="adultTicCount" type="number" class="form-control seats" min="0" oninput="test()" max="@Model.Screening.seatsRemaining" />
 		</div>
 		<div class="mb-3">
 			<label>Child Tickets</label>
-			<input asp-for="childTicCount" type="number" class="form-control seats" min="0" />
+			<input asp-for="childTicCount" type="number" class="form-control seats" min="0" oninput="test()" max="@Model.Screening.seatsRemaining" />
 		</div>
 
 	<div class="mb-3">
@@ -31,11 +31,6 @@
 		<input type="hidden" id="ticketCount" asp-for="@Model.ticketCount" />
 		<span asp-validation-for="@Model.ticketCount" class="text-danger"></span>
 	</div>
-
-	<div class="col-12 col-md-6 ">
-			<button class="btn btn-primary btn-square" style="height:50px;" onclick="event.preventDefault(); test()">Confirm Seats</button>
-	</div>
-
 
 	<div class="mb-3">
 		<label asp-for="@Model.Booking.Cost"></label>
@@ -85,6 +80,11 @@
 
 	@section Scripts {
 	<script>
+			var maxSeats = @Model.Screening.seatsRemaining;
+
+
+
+
 			var costs = [];
 			@foreach (var type in Model.listOfTypes)
 			{
