@@ -56,24 +56,44 @@ namespace TeamProject.Pages.Admin.Screenings
 						var itemfFilmLength = itemFilm.Duration;
 						if (item.Date < screening.Date.AddMinutes(filmLength) && item.Date.AddMinutes(itemfFilmLength) > screening.Date)
                         {
-                            check = true;
+                            ModelState.AddModelError("", "The selected theatre is already booked at the selected time.");
+                            FilmList = _unitOfWork.FilmRepo.GetAll().Select(i => new SelectListItem()
+                            {
+                                Text = i.FilmName,
+                                Value = i.Id.ToString(),
+                            });
+
+                            TheatreList = _unitOfWork.TheatreRepo.GetAll().Select(i => new SelectListItem()
+                            {
+                                Text = i.TheatreNum.ToString(),
+                                Value = i.Id.ToString(),
+                            });
+                            return Page();
                         }
                     }
                 }
+                screening.seatsRemaining = _unitOfWork.TheatreRepo.Get(screening.theatreId).Capacity;
 
-                if (check)
-                {
-					ModelState.AddModelError("", "The selected theatre is already booked at the selected time.");
-					return Page();
-                }
+                _unitOfWork.ScreeningRepo.Add(screening);
+                _unitOfWork.Save();
+                return RedirectToPage("Index");
 
-                if (check == false)
-                {
-                    _unitOfWork.ScreeningRepo.Add(screening);
-                    _unitOfWork.Save();
-                }
             }
-            return RedirectToPage("Index");
+            // Repopulate the dropdown lists in case of validation errors
+            FilmList = _unitOfWork.FilmRepo.GetAll().Select(i => new SelectListItem()
+            {
+                Text = i.FilmName,
+                Value = i.Id.ToString(),
+            });
+
+            TheatreList = _unitOfWork.TheatreRepo.GetAll().Select(i => new SelectListItem()
+            {
+                Text = i.TheatreNum.ToString(),
+                Value = i.Id.ToString(),
+            });
+
+            // If ModelState is not valid, return the current page to display validation errors
+            return Page();
         }
     }
 }
