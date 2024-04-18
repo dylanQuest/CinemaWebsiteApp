@@ -41,7 +41,7 @@ namespace TeamProject.Pages.Admin.Screenings
         {
             if (ModelState.IsValid)
             {
-                /*var film = _unitOfWork.FilmRepo.Get(screening.filmId);
+                var film = _unitOfWork.FilmRepo.Get(screening.filmId);
                 var filmLength = film.Duration;
 
                 bool check = false;
@@ -52,7 +52,9 @@ namespace TeamProject.Pages.Admin.Screenings
                 {
                     if (item.theatreId == screening.theatreId)
                     {
-                        if (item.Date < screening.Date.AddMinutes(filmLength) && item.Date > screening.Date)
+						var itemFilm = _unitOfWork.FilmRepo.Get(item.filmId);
+						var itemfFilmLength = itemFilm.Duration;
+						if (item.Date < screening.Date.AddMinutes(filmLength) && item.Date.AddMinutes(itemfFilmLength) > screening.Date)
                         {
                             check = true;
                         }
@@ -63,9 +65,9 @@ namespace TeamProject.Pages.Admin.Screenings
                 {
 					ModelState.AddModelError("", "The selected theatre is already booked at the selected time.");
 					return Page();
-                }*/
+                }
 
-                if (true == true)
+                if (check == false)
                 {
                     _unitOfWork.ScreeningRepo.Add(screening);
                     _unitOfWork.Save();
