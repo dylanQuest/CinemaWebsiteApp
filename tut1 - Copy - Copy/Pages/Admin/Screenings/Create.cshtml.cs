@@ -41,8 +41,35 @@ namespace TeamProject.Pages.Admin.Screenings
         {
             if (ModelState.IsValid)
             {
-                _unitOfWork.ScreeningRepo.Add(screening);
-                _unitOfWork.Save();
+                /*var film = _unitOfWork.FilmRepo.Get(screening.filmId);
+                var filmLength = film.Duration;
+
+                bool check = false;
+
+                var screenings = _unitOfWork.ScreeningRepo.GetAll();
+
+                foreach (var item in screenings)
+                {
+                    if (item.theatreId == screening.theatreId)
+                    {
+                        if (item.Date < screening.Date.AddMinutes(filmLength) && item.Date > screening.Date)
+                        {
+                            check = true;
+                        }
+                    }
+                }
+
+                if (check)
+                {
+					ModelState.AddModelError("", "The selected theatre is already booked at the selected time.");
+					return Page();
+                }*/
+
+                if (true == true)
+                {
+                    _unitOfWork.ScreeningRepo.Add(screening);
+                    _unitOfWork.Save();
+                }
             }
             return RedirectToPage("Index");
         }

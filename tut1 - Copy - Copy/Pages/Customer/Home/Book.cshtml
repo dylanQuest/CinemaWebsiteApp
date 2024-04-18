@@ -4,17 +4,17 @@
 	<form method="post" enctype="multipart/form-data">
 		<div class="mb-3">
 			<label>Adult Tickets</label>
-			<input asp-for="adultTicCount" type="number" class="form-control seats" min="0" oninput="test()" max="@Model.Screening.seatsRemaining" />
+			<input id="adultTics" asp-for="adultTicCount" type="number" class="form-control seats" oninput="changeMax(); test();" min="0" max="@Model.Screening.seatsRemaining" />
 		</div>
 		<div class="mb-3">
 			<label>Child Tickets</label>
-			<input asp-for="childTicCount" type="number" class="form-control seats" min="0" oninput="test()" max="@Model.Screening.seatsRemaining" />
+			<input id="childTics" asp-for="childTicCount" type="number" class="form-control seats" oninput="changeMax(); test();" min="0" max="@Model.Screening.seatsRemaining" />
 		</div>
 
-	<div class="mb-3">
-		<input type="hidden" id="totalSeats" asp-for="@Model.Booking.SeatAmount" />
-		<span asp-validation-for="@Model.Booking.SeatAmount" class="text-danger"></span>
-	</div>
+		<div class="mb-3">
+			<input type="hidden" id="totalSeats" asp-for="@Model.Booking.SeatAmount" />
+			<span asp-validation-for="@Model.Booking.SeatAmount" class="text-danger"></span>
+		</div>
 
 		<!--<div class="mb-3">
 			<input type="hidden" id="adultTicCount" asp-for="attneededModel.Booking.SeatAmount" />
@@ -25,38 +25,38 @@
 			<input type="hidden" id="childTicCount" asp-for="atneededModel.Booking.SeatAmount" />
 			<span asp-validation-for="atneededModel.Booking.SeatAmount" class="text-danger"></span>
 		</div>-->
-	
 
-	<div class="mb-3">
-		<input type="hidden" id="ticketCount" asp-for="@Model.ticketCount" />
-		<span asp-validation-for="@Model.ticketCount" class="text-danger"></span>
-	</div>
 
-	<div class="mb-3">
-		<label asp-for="@Model.Booking.Cost"></label>
-		<input id="cost" asp-for="@Model.Booking.Cost" readonly />
-		<span asp-validation-for="@Model.Booking.Cost" class="text-danger"></span>
+		<div class="mb-3">
+			<input type="hidden" id="ticketCount" asp-for="@Model.ticketCount" />
+			<span asp-validation-for="@Model.ticketCount" class="text-danger"></span>
+		</div>
+
+		<div class="mb-3">
+			<label asp-for="@Model.Booking.Cost"></label>
+			<input id="cost" asp-for="@Model.Booking.Cost" readonly />
+			<span asp-validation-for="@Model.Booking.Cost" class="text-danger"></span>
 			<!--<label>Total Cost:</label>
 			<span id="cost"></span>-->
-	</div>
+		</div>
 
-	<div class="mb-3">
-		<label asp-for="@Model.Booking.Email"></label>
-		<input asp-for="@Model.Booking.Email" required="required" />
-		<span asp-validation-for="@Model.Booking.Email" class="text-danger"></span>
-	</div>
+		<div class="mb-3">
+			<label asp-for="@Model.Booking.Email"></label>
+			<input asp-for="@Model.Booking.Email" required="required" />
+			<span asp-validation-for="@Model.Booking.Email" class="text-danger"></span>
+		</div>
 
-	<label required="required">Credit Card Number</label>
-	<input pattern=".{16}" title="Please enter a valid Credit Card number" />
+		<label required="required">Credit Card Number</label>
+		<input pattern=".{16}" title="Please enter a valid Credit Card number" />
 
-	<label required="required">CCV</label>
-	<input pattern=".{3}" title="Please enter a valid CCV number" />
+		<label required="required">CCV</label>
+		<input pattern=".{3}" title="Please enter a valid CCV number" />
 
-	<div class="col-12 col-md-6 ">
+		<div class="col-12 col-md-6 ">
 			<button type="submit" class="btn btn-primary btn-square form-control" style="height:50px;">Book</button>
 			<a asp-page="Index" class="btn btn-secondary">Back to Index</a>
-	</div>
-</form>
+		</div>
+	</form>
 
 	<!--<div class="mb-3">
 	<label asp-for="attneededModel.Type.TypeName"></label>
@@ -75,11 +75,8 @@
 	}
 	}
 	</div>-->
-
-
-
 	@section Scripts {
-	<script>
+		<script>
 			var maxSeats = @Model.Screening.seatsRemaining;
 
 
@@ -88,13 +85,13 @@
 			var costs = [];
 			@foreach (var type in Model.listOfTypes)
 			{
-				@:costs["@type.Id"-1] = @type.Cost;
+				@:costs["@type.Id" - 1] = @type.Cost;
 			}
-			console.log(costs);
+				console.log(costs);
 
 			var totalCost = 0;
 			var totalSeats = 0;
-			function test(){
+			function test() {
 				var seatsGetAll = document.getElementsByClassName('seats');
 				totalCost = 0;
 				totalSeats = 0;
@@ -126,6 +123,16 @@
 				var selectedTypeId = document.getElementById('typeSelect').value;
 				document.getElementById('cost').value = costs[selectedTypeId] || '';
 			}
-	</script>
+
+			function changeMax() {
+				var totalSeats = @Model.Screening.seatsRemaining;
+				var adultTics = document.getElementById('adultTics');
+				var childTics = document.getElementById('childTics');
+
+				adultTics.max = totalSeats - childTics.value;
+				childTics.max = totalSeats - adultTics.value;
+
+			}
+		</script>
 	}
 }
