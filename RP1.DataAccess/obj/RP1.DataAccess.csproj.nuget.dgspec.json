@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {}
+    "C:\\Users\\L00164316\\Source\\Repos\\team-1-project1\\RP1.DataAccess\\RP1.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {
+    "C:\\Users\\L00164316\\Source\\Repos\\team-1-project1\\RP1.DataAccess\\RP1.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\L00164316\\Source\\Repos\\team-1-project1\\RP1.DataAccess\\RP1.DataAccess.csproj",
         "projectName": "RP1.DataAccess",
-        "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\L00164316\\Source\\Repos\\team-1-project1\\RP1.DataAccess\\RP1.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\L00164316\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\L00164316\\Source\\Repos\\team-1-project1\\RP1.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\L00169531\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\L00164316\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
-                "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj"
+              "C:\\Users\\L00164316\\Source\\Repos\\team-1-project1\\RP1.Models\\RP1.Models.csproj": {
+                "projectPath": "C:\\Users\\L00164316\\Source\\Repos\\team-1-project1\\RP1.Models\\RP1.Models.csproj"
               }
             }
           }
@@ -85,21 +90,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
+    "C:\\Users\\L00164316\\Source\\Repos\\team-1-project1\\RP1.Models\\RP1.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj",
+        "projectUniqueName": "C:\\Users\\L00164316\\Source\\Repos\\team-1-project1\\RP1.Models\\RP1.Models.csproj",
         "projectName": "RP1.Models",
-        "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj",
-        "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\obj\\",
+        "projectPath": "C:\\Users\\L00164316\\Source\\Repos\\team-1-project1\\RP1.Models\\RP1.Models.csproj",
+        "packagesPath": "C:\\Users\\L00164316\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\L00164316\\Source\\Repos\\team-1-project1\\RP1.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\L00169531\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\L00164316\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -107,6 +116,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -140,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
