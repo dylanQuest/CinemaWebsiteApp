@@ -12,8 +12,8 @@ using RP1.DataAccess.DataAccess;
 namespace RP1.DataAccess.Migrations
 {
     [DbContext(typeof(AppDBContext))]
-    [Migration("20240411142230_4.5.6")]
-    partial class _456
+    [Migration("20240418132907_ver1")]
+    partial class ver1
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
