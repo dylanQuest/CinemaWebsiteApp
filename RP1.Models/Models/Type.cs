@@ -9,7 +9,7 @@ namespace RP1.Models.Models
         [Required]
         public string? TypeName { get; set; }
         [Required]
-        public int Cost { get; set; }
+        public double Cost { get; set; }
         
 
         public List<Ticket> Tickets { get; set; }

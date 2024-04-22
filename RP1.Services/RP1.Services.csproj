@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.23" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\RP1.DataAccess\RP1.DataAccess.csproj" />
     <ProjectReference Include="..\RP1.Models\RP1.Models.csproj" />
   </ItemGroup>

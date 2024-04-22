@@ -9,9 +9,10 @@ namespace RP1.Models.Models
         [Required]
         public int SeatAmount { get; set; }
         [Required]
-        public int Cost { get; set; }
+        public double Cost { get; set; }
         [Required]
-        public string? Email { get; set; }
+        [DataType(DataType.EmailAddress)]
+        public string Email { get; set; }
         public List<Ticket> Tickets { get; set; }
     }
 }

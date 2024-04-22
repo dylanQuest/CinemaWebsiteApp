@@ -8,62 +8,30 @@
             <div class="container backgroundWhite">
                 <div class="card">
                     <div class="card-header">
-                        <div class="text-light ml-0 row ">
-                            <div class="col-12 col-md-6 pt-2">
-                                <h1 class="text-primary">@Model.Film.FilmName</h1>
+						<div class="text-light ml-0 row justify-content-center">
+							<div class="col-12 col-md-6 pt-2 d-flex justify-content-center">
+                                <h1 class="text-primary text-light">@Model.Film.FilmName</h1>
                             </div>
                         </div>
                     </div>
 					@foreach (var Screening in Model.listOfScreenings)
 					{
 						<div class="container rounded p-2">
-							<div class="row">
+							<div class="row justify-content-center">
 								<div class="col-12 col">
+									<h1 class="text-primary text-light">Seats Remaining: @Screening.seatsRemaining</h1>
 									<h2 class="text-success pl-1"><b>@Screening.Date</b></h2>
 									<div class="col-12 col-md-6 ">
-										<a asp-page="Book" asp-route-id="@Screening.Id" button type="submit" class="btn btn-primary btn-square form-control" style="height:50px;">Book</a>
+										<a asp-page="Book" asp-route-screeningId="@Screening.Id" button type="submit" class="btn btn-primary btn-square form-control" style="height:50px;">Book</a>
 									</div>
 								</div>
 							</div>
 						</div>	
-						<div class="col-12">
-							<div class="row my-3">
-
-									<!--<div class="col-lg-4 col-md-6 pb-4 filter">
-										<div class="card bg-white rounded shadow-sm" style="border:1px solid #222">
-											<div class="card-body pb-1 row">
-												<div class="col-8 h5">product.Name</div>
-												<div class="col-4 text-end"><span class="text-info h4">product.Price</span></div>
-											</div>
-											<img class="card-img-top img-fluid d-block mx-auto mb-3" src="product.ImageName" alt="menuitem image">
-											<div class="card-body p-1 px-3 row">
-												<div class="col-6">
-													<span class="badge p-2 border w-100 text-dark bg-warning ">product.Brand.Name</span>
-												</div>
-												<div class="col-6 border-0">
-													<span class="badge p-2 border w-100 bg-info ">product.Name</span>
-												</div>
-												<div class="col-12 pt-2" style="font-size:13px; text-align:justify">
-													<p>product.Description</p>
-												</div>
-												<div class="col-12 p-1">
-													<a asp-page="Details" asp-route-id="product.ID" class="btn btn-dark form-control btn-sm p-2" style="height:40px">View Details</a>
-												</div>
-											</div>
-										</div>
-									</div>-->
-
-								
-							</div>
-						</div>
 					}
                     <div class="card-footer">
-                        <div class="row">
-                            <div class="col-12 col-md-6 pb-1 ">
-                                <a asp-page="Index" class="btn btn-success btn-square form-control" style="height:50px;">Back to Home</a>
-                            </div>
-                            <div class="col-12 col-md-6 ">
-                                <a asp-page="Order" button type="submit" class="btn btn-primary btn-square form-control" style="height:50px;">Book</a>
+						<div class="row justify-content-center">
+							<div class="col-12 col-md-6 pb-1 d-flex justify-content-center">
+								<a asp-page="Index" class="btn btn-success btn-square form-control" style="height:50px;">Back to Home</a>
                             </div>
                         </div>
                     </div>

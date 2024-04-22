@@ -7,9 +7,9 @@ namespace RP1.Models.Models
         [Key]
         public int Id { get; set; }
         [Required]
-        public string? FilmName { get; set; }
+        public string FilmName { get; set; }
         [Required]
-        public string? Description { get; set; }
+        public string Description { get; set; }
         [Required]
         public int Duration { get; set; }
         [Required]

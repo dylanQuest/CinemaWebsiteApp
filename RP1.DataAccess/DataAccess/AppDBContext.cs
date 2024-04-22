@@ -1,14 +1,15 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using RP1.Models.Models;
 using Type = RP1.Models.Models.Type;
 
 namespace RP1.DataAccess.DataAccess
 {
-    public class AppDBContext : DbContext
+    public class AppDBContext : IdentityDbContext
     {
-        public AppDBContext(DbContextOptions<AppDBContext> options) : base(options) 
-        { 
-                
+        public AppDBContext(DbContextOptions<AppDBContext> options) : base(options)
+        {
+
         }
         public DbSet<Film> Films { get; set; }
         public DbSet<Screening> Screenings { get; set; }
