@@ -23,7 +23,7 @@ namespace tut1.Pages.Customer.Home
 
             listOfScreenings = _unitOfWork.ScreeningRepo.GetAll();
 
-            listOfScreenings = listOfScreenings.Where(p => p.filmId == Film.Id);
+            listOfScreenings = listOfScreenings.Where(p => p.filmId == Film.Id); //where screening(p)s film id matches the posted films id
         }
     }
 }

@@ -4,6 +4,7 @@ using TP.DataAccess.Repo;
 
 namespace RP1.Services
 {
+    //unitofwork class which acts as interface to repo class in page models
     public class UnitOfWork : IUnitOfWork
     {
         public readonly AppDBContext _dbcontext;

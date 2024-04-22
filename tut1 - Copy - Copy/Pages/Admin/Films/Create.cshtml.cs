@@ -24,6 +24,8 @@ namespace TeamProject.Pages.Admin.Films
         public void OnGet()
         {
         }
+
+        //take submitted form from page, which has initalized the object, and post it to the db through the unitofwork
         public IActionResult OnPost()
         {
             string wwwRootFolder = _webHostEnvironment.WebRootPath;

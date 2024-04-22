@@ -29,6 +29,8 @@ namespace TeamProject.Pages.Admin.Tickets
         public Screening Screening { get; set; }
         public IEnumerable<SelectListItem> ScreeningList { get; set; }
 
+
+        //initialyse dropdowns 
         public void OnGet()
         {
             TypeList = _unitOfWork.TypeRepo.GetAll().Select(i => new SelectListItem()
@@ -49,6 +51,8 @@ namespace TeamProject.Pages.Admin.Tickets
                 Value = i.Id.ToString(),
             });
         }
+
+        //take submitted form from page, which has initalized the object, and post it to the db through the repo
         public IActionResult OnPost(RP1.Models.Models.Ticket ticket)
         {
             if (ModelState.IsValid)

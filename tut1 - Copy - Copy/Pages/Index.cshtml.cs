@@ -14,7 +14,7 @@ namespace tut1.Pages
 
         public IActionResult OnGet()
         {
-            return RedirectToPage("Customer/Home/Index");
+            return RedirectToPage("Customer/Home/Index"); //main index redirects to customer home
         }
     }
 }

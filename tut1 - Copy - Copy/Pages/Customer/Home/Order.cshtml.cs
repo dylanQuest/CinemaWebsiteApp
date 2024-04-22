@@ -9,19 +9,13 @@ namespace tut1.Pages.Customer.Home
     public class OrderModel : PageModel
     {
 		private readonly IUnitOfWork _unitOfWork;
-
 		public OrderModel(IUnitOfWork unitOfWork)
 		{
 			_unitOfWork = unitOfWork;
 		}
-
 		public IEnumerable<Screening> listOfScreenings { get; set; }
-
-		//[BindProperty]
 		public Film Film { get; set; }
-
 		public Screening Screening { get; set; }
-
 		public IEnumerable<Film> listOfFilms { get; set; }
 		public void OnGet(int Id)
         {

@@ -18,6 +18,8 @@ namespace TeamProject.Pages.Admin.Bookings
         public void OnGet()
         {
         }
+
+        //take submitted form from page, which has initalized the object, and post it to the db through the repo
         public IActionResult OnPost(Booking booking)
         {
             if (ModelState.IsValid)

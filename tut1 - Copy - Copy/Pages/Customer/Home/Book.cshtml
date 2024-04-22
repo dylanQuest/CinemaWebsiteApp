@@ -4,11 +4,11 @@
 	<form method="post" enctype="multipart/form-data">
 		<div class="mb-3">
 			<label>Adult Tickets</label>
-			<input id="adultTics" asp-for="adultTicCount" type="number" class="form-control seats" oninput="changeMax(); test();" min="0" max="@Model.Screening.seatsRemaining" />
+			<input id="adultTics" asp-for="adultTicCount" type="number" class="form-control seats" oninput="changeMax(); calc();" min="0" max="@Model.Screening.seatsRemaining" />
 		</div>
 		<div class="mb-3">
 			<label>Child Tickets</label>
-			<input id="childTics" asp-for="childTicCount" type="number" class="form-control seats" oninput="changeMax(); test();" min="0" max="@Model.Screening.seatsRemaining" />
+			<input id="childTics" asp-for="childTicCount" type="number" class="form-control seats" oninput="changeMax(); calc();" min="0" max="@Model.Screening.seatsRemaining" />
 		</div>
 
 		<div class="mb-3">
@@ -47,50 +47,41 @@
 
 	@section Scripts {
 		<script>
-			var maxSeats = @Model.Screening.seatsRemaining;
-
-			var costs = [];
-			@foreach (var type in Model.listOfTypes)
+			var costs = []; //init list of costs
+			@foreach (var type in Model.listOfTypes) //loop through list of types, filling array with costs
 			{
 				@:costs["@type.Id" - 1] = @type.Cost;
 			}
-				console.log(costs);
 
 			var totalCost = 0;
 			var totalSeats = 0;
-			function test() {
-				var seatsGetAll = document.getElementsByClassName('seats');
+			function calc() {
+				var seatsGetAll = document.getElementsByClassName('seats'); 
 				totalCost = 0;
 				totalSeats = 0;
 
 				var seatTotal = [];
-				Array.from(seatsGetAll).forEach((SC) => {
+				Array.from(seatsGetAll).forEach((SC) => { //create an array combining contents of the tickets inputs eg 2 adults and 1 child and psuh that into the seattotal array
 					seatTotal.push(SC.value);
 				});
 
-				for (var i = 0; i < seatTotal.length; i++) {
-					console.log(seatTotal[i]);
-					console.log(costs[i]);
-
+				for (var i = 0; i < seatTotal.length; i++) { //loop through seatstotal and calc both totalCost using costs array and the total num of seats as a single int
 					totalCost += parseInt(seatTotal[i]) * parseFloat(costs[i]);
-
 					totalSeats += parseInt(seatTotal[i]);
 				}
 
-				console.log(totalCost);
-
-				//console.log(seatscost);
-
 				document.getElementById('cost').value = totalCost;
 				document.getElementById('totalSeats').value = totalSeats;
-				document.getElementById('ticketCount').value = totalSeats
+				document.getElementById('ticketCount').value = totalSeats;
 			}
 
+			//function dyncamically displays cost as user increases tickets
 			function displayCost() {
 				var selectedTypeId = document.getElementById('typeSelect').value;
 				document.getElementById('cost').value = costs[selectedTypeId] || '';
 			}
 
+			//functions dynamically changes the max of seats inputs so that no more can be booked than is in the theatre
 			function changeMax() {
 				var totalSeats = @Model.Screening.seatsRemaining;
 				var adultTics = document.getElementById('adultTics');
@@ -98,7 +89,6 @@
 
 				adultTics.max = totalSeats - childTics.value;
 				childTics.max = totalSeats - adultTics.value;
-
 			}
 		</script>
 	}

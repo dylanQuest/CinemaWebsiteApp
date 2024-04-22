@@ -44,17 +44,17 @@ namespace TeamProject.Pages.Admin.Screenings
                 var film = _unitOfWork.FilmRepo.Get(screening.filmId);
                 var filmLength = film.Duration;
 
-                bool check = false;
+                bool check = false; //check refers to whether or nott a screening overlaps with new screening time
 
                 var screenings = _unitOfWork.ScreeningRepo.GetAll();
 
-                foreach (var item in screenings)
+                foreach (var item in screenings) //checks the new screening against old ones
                 {
                     if (item.theatreId == screening.theatreId)
                     {
 						var itemFilm = _unitOfWork.FilmRepo.Get(item.filmId);
 						var itemfFilmLength = itemFilm.Duration;
-						if (item.Date < screening.Date.AddMinutes(filmLength) && item.Date.AddMinutes(itemfFilmLength) > screening.Date)
+						if (item.Date < screening.Date.AddMinutes(filmLength) && item.Date.AddMinutes(itemfFilmLength) > screening.Date) //if their times overlap the new screening is rejected
                         {
                             ModelState.AddModelError("", "The selected theatre is already booked at the selected time.");
                             FilmList = _unitOfWork.FilmRepo.GetAll().Select(i => new SelectListItem()
@@ -79,7 +79,7 @@ namespace TeamProject.Pages.Admin.Screenings
                 return RedirectToPage("Index");
 
             }
-            // Repopulate the dropdown lists in case of validation errors
+            // repopulate the dropdown lists in case of screening time validation errors
             FilmList = _unitOfWork.FilmRepo.GetAll().Select(i => new SelectListItem()
             {
                 Text = i.FilmName,
@@ -92,7 +92,7 @@ namespace TeamProject.Pages.Admin.Screenings
                 Value = i.Id.ToString(),
             });
 
-            // If ModelState is not valid, return the current page to display validation errors
+            // return the current page to display screening validation errors
             return Page();
         }
     }
