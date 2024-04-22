@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using RP1.DataAccess.DataAccess;
 
@@ -11,9 +12,11 @@ using RP1.DataAccess.DataAccess;
 namespace RP1.DataAccess.Migrations
 {
     [DbContext(typeof(AppDBContext))]
-    partial class AppDBContextModelSnapshot : ModelSnapshot
+    [Migration("20240422151806_v5.1.3")]
+    partial class v513
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -274,28 +277,6 @@ namespace RP1.DataAccess.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Films");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Description = "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he must prevent a terrible future only he can foresee.",
-                            Duration = 122,
-                            FilmName = "Dune 2",
-                            ImageName = "/Images/Films/168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
-                            Trailer = "https://www.youtube.com/embed/U2Qp5pL3ovA",
-                            ageRating = 16
-                        },
-                        new
-                        {
-                            Id = 3,
-                            Description = "During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing and designing the atomic bomb. Their work comes to fruition on July 16, 1945, as they witness the world's first nuclear explosion, forever changing the course of history.",
-                            Duration = 145,
-                            FilmName = "Oppenheimer",
-                            ImageName = "/Images/Films/168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
-                            Trailer = "https://www.youtube.com/embed/U2Qp5pL3ovA",
-                            ageRating = 18
-                        });
                 });
 
             modelBuilder.Entity("RP1.Models.Models.Screening", b =>
@@ -344,20 +325,6 @@ namespace RP1.DataAccess.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Theatres");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Capacity = 24,
-                            TheatreNum = 1
-                        },
-                        new
-                        {
-                            Id = 2,
-                            Capacity = 48,
-                            TheatreNum = 2
-                        });
                 });
 
             modelBuilder.Entity("RP1.Models.Models.Ticket", b =>
@@ -412,13 +379,13 @@ namespace RP1.DataAccess.Migrations
                         {
                             Id = 1,
                             Cost = 9.9900000000000002,
-                            TypeName = "Adult"
+                            TypeName = "type"
                         },
                         new
                         {
                             Id = 2,
                             Cost = 4.9900000000000002,
-                            TypeName = "Child"
+                            TypeName = "type"
                         });
                 });
 
