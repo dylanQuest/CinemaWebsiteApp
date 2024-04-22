@@ -11,7 +11,7 @@ namespace RP1.Models.Models
         [Required]
         public double Cost { get; set; }
         
-
+        //collection navigation property
         public List<Ticket> Tickets { get; set; }
     }
 }

@@ -11,6 +11,7 @@ namespace RP1.Models.Models
         [Required]
         public int Capacity { get; set; }
         
+        //collection navigation property
         public List<Screening> Screenings { get; set; }
     }
 }

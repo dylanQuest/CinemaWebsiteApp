@@ -10,6 +10,8 @@ namespace RP1.Models.Models
         public int bookingId { get; set; }
         public Booking Booking { get; set; }
 
+        //collection navigation properties and associated IDs
+        //the IDs are neccessary for making reference to a particular instance of a screening, type etc on a page
         public int typeId { get; set; }
         public Type Type { get; set; }
 

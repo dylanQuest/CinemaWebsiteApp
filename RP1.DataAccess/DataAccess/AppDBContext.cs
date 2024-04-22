@@ -7,6 +7,7 @@ namespace RP1.DataAccess.DataAccess
 {
     public class AppDBContext : IdentityDbContext
     {
+        //database context which is used to interface with DB
         public AppDBContext(DbContextOptions<AppDBContext> options) : base(options)
         {
 

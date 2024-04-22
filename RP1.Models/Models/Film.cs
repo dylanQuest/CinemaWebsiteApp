@@ -19,6 +19,7 @@ namespace RP1.Models.Models
 
         public string ImageName { get; set; }
 
+        //collection navigation property
         public List<Screening> Screenings { get; set; }
     }
 }

@@ -6,20 +6,11 @@ namespace RP1.Models.Models
     {
         [Key]
         public int Id { get; set; }
-        //[Required]
-        //public Cinema TheatreId { get; set; }
-
-        //probably unneeded
-
-
-        //[Required]
-
         public DateTime Date { get; set; }
-        //[Required]
         public int seatsRemaining { get; set; }
-        //[Required]
 
-        //collection navigation properties
+        //collection navigation properties and associated IDs
+        //the IDs are neccessary for making reference to a particular instance of a film, theatre etc on a page
         public int filmId { get; set; }
         public Film Film { get; set; }
 

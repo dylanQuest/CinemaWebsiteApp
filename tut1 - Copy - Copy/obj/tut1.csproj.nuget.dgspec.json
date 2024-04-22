@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj": {}
+    "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {
+    "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj",
         "projectName": "RP1.DataAccess",
-        "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj",
+        "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj",
         "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
-                "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Models\\RP1.Models.csproj"
+              "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
+                "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
+    "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Models\\RP1.Models.csproj",
+        "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj",
         "projectName": "RP1.Models",
-        "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Models\\RP1.Models.csproj",
+        "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj",
         "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Models\\obj\\",
+        "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Services\\RP1.Services.csproj": {
+    "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Services\\RP1.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Services\\RP1.Services.csproj",
+        "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Services\\RP1.Services.csproj",
         "projectName": "RP1.Services",
-        "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Services\\RP1.Services.csproj",
+        "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Services\\RP1.Services.csproj",
         "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Services\\obj\\",
+        "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -187,11 +187,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj"
+              "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj"
               },
-              "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
-                "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Models\\RP1.Models.csproj"
+              "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
+                "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj"
               }
             }
           }
@@ -231,14 +231,14 @@
         }
       }
     },
-    "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj": {
+    "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
+        "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
         "projectName": "tut1",
-        "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
+        "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
         "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\tut1 - Copy - Copy\\obj\\",
+        "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\tut1 - Copy - Copy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -261,14 +261,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj"
+              "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj"
               },
-              "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
-                "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Models\\RP1.Models.csproj"
+              "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
+                "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Models\\RP1.Models.csproj"
               },
-              "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Services\\RP1.Services.csproj": {
-                "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\1\\team-1-project\\RP1.Services\\RP1.Services.csproj"
+              "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Services\\RP1.Services.csproj": {
+                "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\team-1-project\\RP1.Services\\RP1.Services.csproj"
               }
             }
           }
