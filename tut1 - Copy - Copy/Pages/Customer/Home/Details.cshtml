@@ -43,16 +43,7 @@
                                                     </div>
                                                 </div>
                                             }-->
-
-                                            <div class="row">
-                                                <iframe height="800"
-                                                        width="600"
-                                                        src="@Model.Film.Trailer"
-                                                        frameborder="0"
-                                                        allowfullscreen>
-                                                </iframe>
-                                            </div>
-
+                                            <button type="button" class="btn btn-primary btn-square form-control" style="height:50px;" data-bs-toggle="modal" data-bs-target="#trailerModal">View Trailer</button>
                                         </div>
 
                                     </div>
@@ -80,5 +71,20 @@
                 </div>
             </div>
         </form>
+    </div>
+
+    
+    <div class="modal" id="trailerModal">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 id="trailerModalLabel">@Model.Film.FilmName Trailer</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <iframe height="500" width="100%" src="@Model.Film.Trailer" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
     </div>
 }
