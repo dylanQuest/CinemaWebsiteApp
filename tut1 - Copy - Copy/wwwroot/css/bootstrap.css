@@ -11,6 +11,8 @@
  * Copyright 2011-2024 The Bootstrap Authors
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;500;600;700&display=swap");
+
 :root,
 [data-bs-theme=light] {
     --bs-blue: #007bff;
@@ -78,7 +80,7 @@
     --bs-dark-border-subtle: #999;
     --bs-white-rgb: 255, 255, 255;
     --bs-black-rgb: 0, 0, 0;
-    --bs-font-sans-serif: Montserrat, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --bs-font-sans-serif: "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
     --bs-body-font-family: var(--bs-font-sans-serif);
@@ -87,7 +89,7 @@
     --bs-body-line-height: 1.5;
     --bs-body-color: #aaa;
     --bs-body-color-rgb: 170, 170, 170;
-    --bs-body-bg: #BFBDF1;
+    --bs-body-bg: #0C0F5F;
     --bs-body-bg-rgb: 39, 43, 48;
     --bs-emphasis-color: #000;
     --bs-emphasis-color-rgb: 0, 0, 0;
@@ -3825,8 +3827,8 @@ textarea.form-control-lg {
     --bs-dropdown-padding-y: 0.5rem;
     --bs-dropdown-spacer: 0.125rem;
     --bs-dropdown-font-size: 1rem;
-    --bs-dropdown-color: var(--bs-body-color);
-    --bs-dropdown-bg: #3a3f44;
+    --bs-dropdown-color: #DB85E8;
+    --bs-dropdown-bg: #4535BF;
     --bs-dropdown-border-color: rgba(0, 0, 0, 0.6);
     --bs-dropdown-border-radius: var(--bs-border-radius);
     --bs-dropdown-border-width: var(--bs-border-width);
@@ -3835,14 +3837,14 @@ textarea.form-control-lg {
     --bs-dropdown-divider-margin-y: 0.5rem;
     --bs-dropdown-box-shadow: var(--bs-box-shadow);
     --bs-dropdown-link-color: #aaa;
-    --bs-dropdown-link-hover-color: #fff;
-    --bs-dropdown-link-hover-bg: #272b30;
+    --bs-dropdown-link-hover-color: #4535BF;
+    --bs-dropdown-link-hover-bg: #DB85E8;
     --bs-dropdown-link-active-color: #fff;
     --bs-dropdown-link-active-bg: #272b30;
     --bs-dropdown-link-disabled-color: var(--bs-tertiary-color);
     --bs-dropdown-item-padding-x: 1rem;
     --bs-dropdown-item-padding-y: 0.25rem;
-    --bs-dropdown-header-color: #7a8288;
+    --bs-dropdown-header-color: #35BF95;
     --bs-dropdown-header-padding-x: 1rem;
     --bs-dropdown-header-padding-y: 0.5rem;
     position: absolute;
@@ -4409,10 +4411,10 @@ textarea.form-control-lg {
 .navbar {
     --bs-navbar-padding-x: 0;
     --bs-navbar-padding-y: 0;
-    --bs-navbar-color: rgba(var(--bs-emphasis-color-rgb), 0.65);
-    --bs-navbar-hover-color: rgba(var(--bs-emphasis-color-rgb), 0.8);
+    --bs-navbar-color: #DB85E8;
+    --bs-navbar-hover-color: #4535BF;
     --bs-navbar-disabled-color: rgba(var(--bs-emphasis-color-rgb), 0.3);
-    --bs-navbar-active-color: rgba(var(--bs-emphasis-color-rgb), 1);
+    --bs-navbar-active-color: #40e0d0;
     --bs-navbar-brand-padding-y: 0.3125rem;
     --bs-navbar-brand-margin-end: 1rem;
     --bs-navbar-brand-font-size: 1.25rem;
@@ -4453,22 +4455,22 @@ textarea.form-control-lg {
     padding-bottom: var(--bs-navbar-brand-padding-y);
     margin-right: var(--bs-navbar-brand-margin-end);
     font-size: var(--bs-navbar-brand-font-size);
-    color: var(--bs-navbar-brand-color);
+    color: #4535BF;
     text-decoration: none;
     white-space: nowrap;
 }
 
     .navbar-brand:hover, .navbar-brand:focus {
-        color: var(--bs-navbar-brand-hover-color);
+        color: #4535BF;
     }
 
 .navbar-nav {
     --bs-nav-link-padding-x: 0;
     --bs-nav-link-padding-y: 0.5rem;
     --bs-nav-link-font-weight:;
-    --bs-nav-link-color: var(--bs-navbar-color);
-    --bs-nav-link-hover-color: var(--bs-navbar-hover-color);
-    --bs-nav-link-disabled-color: var(--bs-navbar-disabled-color);
+    --bs-nav-link-color: #4535BF;
+    --bs-nav-link-hover-color: #4535BF;
+    --bs-nav-link-disabled-color: #4535BF;
     display: flex;
     flex-direction: column;
     padding-left: 0;
@@ -4914,11 +4916,11 @@ textarea.form-control-lg {
     --bs-card-inner-border-radius: calc(var(--bs-border-radius) - (var(--bs-border-width)));
     --bs-card-cap-padding-y: 0.5rem;
     --bs-card-cap-padding-x: 1rem;
-    --bs-card-cap-bg: #515960;
+    --bs-card-cap-bg: #5D0E41;
     --bs-card-cap-color:;
     --bs-card-height:;
-    --bs-card-color:;
-    --bs-card-bg: #32383e;
+    --bs-card-color: #FF204E;
+    --bs-card-bg: #5D0E41;
     --bs-card-img-overlay-padding: 1rem;
     --bs-card-group-margin: 0.75rem;
     position: relative;
@@ -9302,7 +9304,7 @@ textarea.form-control-lg {
 
 .text-success {
     --bs-text-opacity: 1;
-    color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important;
+    color: #fff, var(--bs-text-opacity)) !important;
 }
 
 .text-info {
@@ -13772,97 +13774,97 @@ textarea.form-control-lg {
 }
 
 .navbar.bg-primary .nav-link:hover {
-    background-image: linear-gradient(#313539, #34393d 40%, #373b40);
+    background-image: #5D0E41;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .navbar.bg-primary .nav-link:active, .navbar.bg-primary .nav-link.active {
-    background-image: linear-gradient(#25282c, #292c30 40%, #2b2f32);
+    background-image: #5D0E41;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .navbar.bg-secondary .nav-link:hover {
-    background-image: linear-gradient(#666d72, #6e757a 40%, #737a80);
+    background-image: #A0153E;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .navbar.bg-secondary .nav-link:active, .navbar.bg-secondary .nav-link.active {
-    background-image: linear-gradient(#4e5357, #555b5f 40%, #5a6065);
+    background-image: #FF204E;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .navbar.bg-success .nav-link:hover {
-    background-image: linear-gradient(#52a552, #58b058 40%, #5cb85c);
+    background-image: #A0153E;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .navbar.bg-success .nav-link:active, .navbar.bg-success .nav-link.active {
-    background-image: linear-gradient(#3f7d3f, #458945 40%, #499149);
+    background-image: #FF204E;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .navbar.bg-info .nav-link:hover {
-    background-image: linear-gradient(#4ca1ba, #52adc8 40%, #56b4d1);
+    background-image: #A0153E;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .navbar.bg-info .nav-link:active, .navbar.bg-info .nav-link.active {
-    background-image: linear-gradient(#3a7b8e, #40869b 40%, #438ea4);
+    background-image: #FF204E;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .navbar.bg-warning .nav-link:hover {
-    background-image: linear-gradient(#d07c05, #df8505 40%, #e98b06);
+    background-image: #A0153E;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .navbar.bg-warning .nav-link:active, .navbar.bg-warning .nav-link.active {
-    background-image: linear-gradient(#9f5f04, #ae6804 40%, #b86e04);
+    background-image: #FF204E;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .navbar.bg-danger .nav-link:hover {
-    background-image: linear-gradient(#c8504c, #d65652 40%, #e05956);
+    background-image: #A0153E;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .navbar.bg-danger .nav-link:active, .navbar.bg-danger .nav-link.active {
-    background-image: linear-gradient(#983d3a, #a74340 40%, #b04643);
+    background-image: #FF204E;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .navbar.bg-light .nav-link:hover {
-    background-image: linear-gradient(#c4c6c9, #d2d4d7 40%, #dbdee1);
+    background-image: #A0153E;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .navbar.bg-light .nav-link:active, .navbar.bg-light .nav-link.active {
-    background-image: linear-gradient(#959799, #a3a5a7 40%, #acafb1);
+    background-image: #FF204E;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .navbar.bg-dark .nav-link:hover {
-    background-image: linear-gradient(#212428, #23272b 40%, #25282d);
+    background-image: #A0153E;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .navbar.bg-dark .nav-link:active, .navbar.bg-dark .nav-link.active {
-    background-image: linear-gradient(#191c1f, #1b1e22 40%, #1d2024);
+    background-image: #FF204E;
     filter: none;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
