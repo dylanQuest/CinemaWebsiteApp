@@ -9,6 +9,11 @@
 			</h2>
 		</div>
 		<div class="mb-3">
+			<label asp-for="@Model.Register.Passcode">Passcode</label>
+			<input asp-for="@Model.Register.Passcode" class="form-control" />
+			<span asp-validation-for="Register.Passcode" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
 			<label asp-for="@Model.Register.EmailAddress">Email Address</label>
 			<input asp-for="@Model.Register.EmailAddress" class="form-control" />
 			<span asp-validation-for="Register.EmailAddress" class="text-danger"></span>

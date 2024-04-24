@@ -7,6 +7,8 @@ namespace tut1.Pages.PageViewModels
     public class Register
     {
         [Required]
+        public string Passcode { get; set; }
+        [Required]
         [DataType(DataType.EmailAddress)]
         public string EmailAddress { get; set; }
         [Required]
