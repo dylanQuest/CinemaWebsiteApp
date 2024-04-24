@@ -280,7 +280,7 @@ namespace RP1.DataAccess.Migrations
                         {
                             Id = 1,
                             Description = "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he must prevent a terrible future only he can foresee.",
-                            Duration = 122,
+                            Duration = 165,
                             FilmName = "Dune 2",
                             ImageName = "/Images/Films/168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
                             Trailer = "https://www.youtube.com/embed/U2Qp5pL3ovA",
@@ -290,10 +290,50 @@ namespace RP1.DataAccess.Migrations
                         {
                             Id = 2,
                             Description = "During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing and designing the atomic bomb. Their work comes to fruition on July 16, 1945, as they witness the world's first nuclear explosion, forever changing the course of history.",
-                            Duration = 145,
+                            Duration = 180,
                             FilmName = "Oppenheimer",
                             ImageName = "/Images/Films/168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
-                            Trailer = "https://www.youtube.com/embed/U2Qp5pL3ovA",
+                            Trailer = "https://www.youtube.com/embed/uYPbbksJxIg",
+                            ageRating = 18
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Description = "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+                            Duration = 113,
+                            FilmName = "Barbie",
+                            ImageName = "/Images/Films/barbie.jpg",
+                            Trailer = "https://www.youtube.com/embed/pBk4NYhWNMM",
+                            ageRating = 12
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Description = "Yuta Okkotsu is haunted by the spirit of his childhood friend Rika, who died in a traffic accident. Her spirit no longer appears as the sweet girl he called his beloved. Instead, her spirit has been cursed and she manifests as a monstrous entity who protects him against his will.",
+                            Duration = 145,
+                            FilmName = "Jujutsu Kaisen",
+                            ImageName = "/Images/Films/jjk.jpg",
+                            Trailer = "https://www.youtube.com/embed/2docezZl574",
+                            ageRating = 16
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Description = "After a job gone wrong, hitman Ray and his partner await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be.",
+                            Duration = 107,
+                            FilmName = "In Bruges",
+                            ImageName = "/Images/Films/inbrug.png",
+                            Trailer = "https://www.youtube.com/embed/96harmMOyiY",
+                            ageRating = 18
+                        },
+                        new
+                        {
+                            Id = 6,
+                            Description = "When the passengers and crew of a jet are incapacitated due to food poisoning, a rogue pilot with a drinking problem must cooperate with his ex-girlfriend turned stewardess to bring the plane to a safe landing.",
+                            Duration = 98,
+                            FilmName = "Airplane",
+                            ImageName = "/Images/Films/airplane.png",
+                            Trailer = "https://www.youtube.com/embed/07pPmCfKi3U",
                             ageRating = 18
                         });
                 });
