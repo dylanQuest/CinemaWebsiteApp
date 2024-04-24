@@ -31,7 +31,7 @@ namespace tut1.Pages
 		{
 			if (ModelState.IsValid)
 			{
-				// Check if the passcode matches the expected value
+				//Check if the passcode matches the expected value
 				if (Passcode != "staffAdmin")
 				{
 					ModelState.AddModelError("", "Invalid passcode.");

@@ -58,7 +58,7 @@ namespace RP1.DataAccess.DataAccess
                         Duration = 165,
                         ageRating = 16,
                         Trailer = "https://www.youtube.com/embed/U2Qp5pL3ovA",
-                        ImageName = "/Images/Films/168dd146-0c24-4e01-9ad0-91bd8455af24.jpg"
+                        ImageName = "/Images/Films/dune.jpg"
                     },
                     new Film
                     {
@@ -68,7 +68,7 @@ namespace RP1.DataAccess.DataAccess
                         Duration = 180,
                         ageRating = 18,
                         Trailer = "https://www.youtube.com/embed/uYPbbksJxIg",
-                        ImageName = "/Images/Films/168dd146-0c24-4e01-9ad0-91bd8455af24.jpg"
+                        ImageName = "/Images/Films/opp.jpg"
                     },
                     new Film
                     {
@@ -109,6 +109,36 @@ namespace RP1.DataAccess.DataAccess
                         ageRating = 18,
                         Trailer = "https://www.youtube.com/embed/07pPmCfKi3U",
                         ImageName = "/Images/Films/airplane.png"
+                    },
+                    new Film
+                    {
+                        Id = 7,
+                        FilmName = "The Life Aquatic",
+                        Description = "While working on a documentary at sea, an oceanographer's work partner gets killed by a shark. Soon, along with a crew, he sets off on an expedition to exact revenge on the aquatic animal.",
+                        Duration = 98,
+                        ageRating = 16,
+                        Trailer = "https://www.youtube.com/embed/UpU0DZXTGA0",
+                        ImageName = "/Images/Films/aqua.jpg"
+                    },
+                    new Film
+                    {
+                        Id = 8,
+                        FilmName = "Nausicaä ",
+                        Description = "In a post-apocalyptic age, Nausicaa, a princess who guards the Valley of the Wind, tries to stop two warring nations from destroying everything around them.",
+                        Duration = 117,
+                        ageRating = 12,
+                        Trailer = "https://www.youtube.com/embed/6zhLBe319KE",
+                        ImageName = "/Images/Films/nausicaa.jpg"
+                    },
+                    new Film
+                    {
+                        Id = 9,
+                        FilmName = "Akira",
+                        Description = "Biker Kaneda is confronted by many anti-social elements while trying to help his friend Tetsuo who is involved in a secret government project. Tetsuo's supernatural persona adds the final twist.",
+                        Duration = 124,
+                        ageRating = 18,
+                        Trailer = "https://www.youtube.com/embed/nA8KmHC2Z-g",
+                        ImageName = "/Images/Films/akira.jpg"
                     }
 
 

@@ -1744,3 +1744,5 @@ C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\team proje
 C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\team project\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.pdb
 C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\team project\tut1 - Copy - Copy\obj\Debug\net7.0\tut1.genruntimeconfig.cache
 C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\team project\tut1 - Copy - Copy\obj\Debug\net7.0\ref\tut1.dll
+C:\Users\L00169531\Source\Repos\team-1-project\tut1 - Copy - Copy\bin\Debug\net7.0\SendGrid.dll
+C:\Users\L00169531\Source\Repos\team-1-project\tut1 - Copy - Copy\bin\Debug\net7.0\StarkbankEcdsa.dll

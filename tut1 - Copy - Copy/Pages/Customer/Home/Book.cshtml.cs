@@ -73,7 +73,9 @@ namespace tut1.Pages.Customer.Home
 
 				_unitOfWork.Save();
 			}
-			return RedirectToPage("BookingMade");
+            EmailSender emailSender = new EmailSender();
+            emailSender.SendEmail(booking.Email,booking.Id,booking.Cost).Wait();
+            return RedirectToPage("BookingMade");
 		}
 
 		//current iteration if system requires their only be adult and cild tickets

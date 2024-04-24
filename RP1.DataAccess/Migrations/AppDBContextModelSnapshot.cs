@@ -282,7 +282,7 @@ namespace RP1.DataAccess.Migrations
                             Description = "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he must prevent a terrible future only he can foresee.",
                             Duration = 165,
                             FilmName = "Dune 2",
-                            ImageName = "/Images/Films/168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
+                            ImageName = "/Images/Films/dune.jpg",
                             Trailer = "https://www.youtube.com/embed/U2Qp5pL3ovA",
                             ageRating = 16
                         },
@@ -292,7 +292,7 @@ namespace RP1.DataAccess.Migrations
                             Description = "During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing and designing the atomic bomb. Their work comes to fruition on July 16, 1945, as they witness the world's first nuclear explosion, forever changing the course of history.",
                             Duration = 180,
                             FilmName = "Oppenheimer",
-                            ImageName = "/Images/Films/168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
+                            ImageName = "/Images/Films/opp.jpg",
                             Trailer = "https://www.youtube.com/embed/uYPbbksJxIg",
                             ageRating = 18
                         },
@@ -334,6 +334,36 @@ namespace RP1.DataAccess.Migrations
                             FilmName = "Airplane",
                             ImageName = "/Images/Films/airplane.png",
                             Trailer = "https://www.youtube.com/embed/07pPmCfKi3U",
+                            ageRating = 18
+                        },
+                        new
+                        {
+                            Id = 7,
+                            Description = "While working on a documentary at sea, an oceanographer's work partner gets killed by a shark. Soon, along with a crew, he sets off on an expedition to exact revenge on the aquatic animal.",
+                            Duration = 98,
+                            FilmName = "The Life Aquatic",
+                            ImageName = "/Images/Films/aqua.jpg",
+                            Trailer = "https://www.youtube.com/embed/UpU0DZXTGA0",
+                            ageRating = 16
+                        },
+                        new
+                        {
+                            Id = 8,
+                            Description = "In a post-apocalyptic age, Nausicaa, a princess who guards the Valley of the Wind, tries to stop two warring nations from destroying everything around them.",
+                            Duration = 117,
+                            FilmName = "Nausicaä ",
+                            ImageName = "/Images/Films/nausicaa.jpg",
+                            Trailer = "https://www.youtube.com/embed/6zhLBe319KE",
+                            ageRating = 12
+                        },
+                        new
+                        {
+                            Id = 9,
+                            Description = "Biker Kaneda is confronted by many anti-social elements while trying to help his friend Tetsuo who is involved in a secret government project. Tetsuo's supernatural persona adds the final twist.",
+                            Duration = 124,
+                            FilmName = "Akira",
+                            ImageName = "/Images/Films/akira.jpg",
+                            Trailer = "https://www.youtube.com/embed/nA8KmHC2Z-g",
                             ageRating = 18
                         });
                 });
