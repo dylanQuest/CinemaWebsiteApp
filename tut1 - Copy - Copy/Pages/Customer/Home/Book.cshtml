@@ -1,49 +1,62 @@
 ﻿@page
 @model tut1.Pages.Customer.Home.BookModel
 @{
-	<form method="post" enctype="multipart/form-data">
-		<div class="mb-3">
-			<label>Adult Tickets</label>
-			<input id="adultTics" asp-for="adultTicCount" type="number" class="form-control seats" oninput="changeMax(); calc();" min="0" max="@Model.Screening.seatsRemaining" />
-		</div>
-		<div class="mb-3">
-			<label>Child Tickets</label>
-			<input id="childTics" asp-for="childTicCount" type="number" class="form-control seats" oninput="changeMax(); calc();" min="0" max="@Model.Screening.seatsRemaining" />
-		</div>
+    <div class="border p-3 mt-4 text-center">
+        <form method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label>Adult Tickets</label>
+                <input id="adultTics" asp-for="adultTicCount" type="number" class="form-control seats" oninput="changeMax(); calc();" min="0" max="@Model.Screening.seatsRemaining" />
+            </div>
+            <div class="mb-3">
+                <label>Child Tickets</label>
+                <input id="childTics" asp-for="childTicCount" type="number" class="form-control seats" oninput="changeMax(); calc();" min="0" max="@Model.Screening.seatsRemaining" />
+            </div>
 
-		<div class="mb-3">
-			<input type="hidden" id="totalSeats" asp-for="@Model.Booking.SeatAmount" />
-			<span asp-validation-for="@Model.Booking.SeatAmount" class="text-danger"></span>
-		</div>
+            <div class="mb-3">
+                <input type="hidden" id="totalSeats" asp-for="@Model.Booking.SeatAmount" />
+                <span asp-validation-for="@Model.Booking.SeatAmount" class="text-danger"></span>
+            </div>
 
-		<div class="mb-3">
-			<input type="hidden" id="ticketCount" asp-for="@Model.ticketCount" />
-			<span asp-validation-for="@Model.ticketCount" class="text-danger"></span>
-		</div>
+            <div class="mb-3">
+                <input type="hidden" id="ticketCount" asp-for="@Model.ticketCount" />
+                <span asp-validation-for="@Model.ticketCount" class="text-danger"></span>
+            </div>
 
-		<div class="mb-3">
-			<label asp-for="@Model.Booking.Cost"></label>
-			<input id="cost" asp-for="@Model.Booking.Cost" readonly />
-			<span asp-validation-for="@Model.Booking.Cost" class="text-danger"></span>
-		</div>
+            <div class="row justify-content-center">
+                <div class="mb-3 col-md-6">
+                    <label asp-for="@Model.Booking.Cost"></label>
+                    <input id="cost" asp-for="@Model.Booking.Cost" readonly class="form-control" />
+                    <span asp-validation-for="@Model.Booking.Cost" class="text-danger"></span>
+                </div>
 
-		<div class="mb-3">
-			<label asp-for="@Model.Booking.Email"></label>
-			<input asp-for="@Model.Booking.Email" required="required" />
-			<span asp-validation-for="@Model.Booking.Email" class="text-danger"></span>
-		</div>
+                <div class="mb-3 col-md-6">
+                    <label asp-for="@Model.Booking.Email"></label>
+                    <input asp-for="@Model.Booking.Email" required="required" class="form-control" />
+                    <span asp-validation-for="@Model.Booking.Email" class="text-danger"></span>
+                </div>
+            </div>
 
-		<label required="required">Credit Card Number</label>
-		<input pattern=".{16}" title="Please enter a valid Credit Card number" />
+            <div class="row justify-content-center">
+                <div class="mb-3 col-md-6">
+                    <label class="form-label" required="required">Credit Card Number</label>
+                    <input class="form-control" pattern=".{16}" title="Please enter a valid Credit Card number" />
+                </div>
+                <div class="mb-3 col-md-6">
+                    <label class="form-label" required="required">CCV</label>
+                    <input class="form-control" pattern=".{3}" title="Please enter a valid CCV number" />
+                </div>
+            </div>
 
-		<label required="required">CCV</label>
-		<input pattern=".{3}" title="Please enter a valid CCV number" />
-
-		<div class="col-12 col-md-6 ">
-			<button type="submit" class="btn btn-primary btn-square form-control" style="height:50px;">Book</button>
-			<a asp-page="Index" class="btn btn-secondary">Back to Index</a>
-		</div>
-	</form>
+            <div class="row justify-content-center">
+                <div class="mb-3 col-md-6">
+                    <button type="submit" class="btn btn-primary btn-square form-control">Book</button>
+                </div>
+                <div class="mb-3 col-md-6">
+                    <a asp-page="Index" class="btn btn-secondary form-control">Back to Index</a>
+                </div>
+            </div>
+        </form>
+    </div>
 
 	@section Scripts {
 		<script>
