@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (2)\\RP1.Models\\RP1.Models.csproj": {}
+    "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (2)\\RP1.Models\\RP1.Models.csproj": {
+    "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (2)\\RP1.Models\\RP1.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj",
         "projectName": "RP1.Models",
-        "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (2)\\RP1.Models\\RP1.Models.csproj",
+        "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (2)\\RP1.Models\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
