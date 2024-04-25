@@ -4916,11 +4916,11 @@ textarea.form-control-lg {
     --bs-card-inner-border-radius: calc(var(--bs-border-radius) - (var(--bs-border-width)));
     --bs-card-cap-padding-y: 0.5rem;
     --bs-card-cap-padding-x: 1rem;
-    --bs-card-cap-bg: #524c97;
+    --bs-card-cap-bg: #0COF5F;
     --bs-card-cap-color:;
     --bs-card-height: 100%;
     --bs-card-color: #FF204E;
-    --bs-card-bg: #0d0c18;
+    --bs-card-bg: #0COF5F;
     --bs-card-img-overlay-padding: 1rem;
     --bs-card-group-margin: 0.75rem;
     position: relative;
@@ -13940,12 +13940,12 @@ textarea.form-control-lg {
 }
 
     .btn-success:not([disabled]):not(.disabled):hover {
-        background-image: linear-gradient(#52a552, #58b058 40%, #5cb85c);
+        background-image: linear-gradient(#8cb3e3, #8cb3e3 40%, #8cb3e3);
         filter: none;
     }
 
     .btn-success:not([disabled]):not(.disabled):active:hover, .btn-success:not([disabled]):not(.disabled).active:hover {
-        background-image: linear-gradient(#3f7d3f, #458945 40%, #499149);
+        background-image: linear-gradient(#8cb3e3, #8cb3e3 40%, #8cb3e3);
         filter: none;
     }
 
