@@ -178,20 +178,20 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 12,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 251,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\bootstrap.css",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap.css",
-              "RelativeToolTip": "wwwroot\\css\\bootstrap.css",
-              "ViewState": "AQIAANQPAAAAAAAAAAAmwHMRAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-23T13:50:19.309Z",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T13:47:40.775Z",
               "EditorCaption": ""
             },
             {
@@ -204,19 +204,21 @@
               "RelativeToolTip": "Pages\\Admin\\Types\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T10:11:17.074Z"
+              "WhenOpened": "2024-04-25T10:11:17.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABYAAAAAAAAAAAAwwCAAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T13:47:40.775Z"
+              "DocumentIndex": 0,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\css\\bootstrap.css",
+              "ViewState": "AQIAAF0RAAAAAAAAAAAmwHMRAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-23T13:50:19.309Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -228,7 +230,8 @@
               "RelativeToolTip": "Pages\\Customer\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T13:47:40.724Z"
+              "WhenOpened": "2024-04-23T13:47:40.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -240,7 +243,8 @@
               "RelativeToolTip": "Pages\\Customer\\Home\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T13:47:40.837Z"
+              "WhenOpened": "2024-04-23T13:47:40.837Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -252,7 +256,8 @@
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.788Z"
+              "WhenOpened": "2024-04-23T13:47:40.788Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -264,7 +269,8 @@
               "RelativeToolTip": "Pages\\Admin\\Screenings\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T10:10:27.34Z"
+              "WhenOpened": "2024-04-25T10:10:27.34Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -276,7 +282,8 @@
               "RelativeToolTip": "Pages\\Admin\\Films\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T10:10:49.399Z"
+              "WhenOpened": "2024-04-25T10:10:49.399Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -288,7 +295,8 @@
               "RelativeToolTip": "Pages\\Admin\\Theatres\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T10:10:05.812Z"
+              "WhenOpened": "2024-04-25T10:10:05.812Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -300,7 +308,8 @@
               "RelativeToolTip": "Pages\\Customer\\Home\\Order.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T13:47:40.85Z"
+              "WhenOpened": "2024-04-23T13:47:40.85Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -312,7 +321,8 @@
               "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T09:59:22.462Z"
+              "WhenOpened": "2024-04-25T09:59:22.462Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -324,7 +334,8 @@
               "RelativeToolTip": "Pages\\Admin\\Bookings\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T09:59:32.141Z"
+              "WhenOpened": "2024-04-25T09:59:32.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -336,7 +347,8 @@
               "RelativeToolTip": "Pages\\Admin\\Tickets\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T10:09:26.173Z"
+              "WhenOpened": "2024-04-25T10:09:26.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -348,7 +360,8 @@
               "RelativeToolTip": "Pages\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T13:47:40.799Z"
+              "WhenOpened": "2024-04-23T13:47:40.799Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -360,7 +373,8 @@
               "RelativeToolTip": "Pages\\PageViewModels\\Register.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T10:34:59.326Z"
+              "WhenOpened": "2024-04-24T10:34:59.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -372,7 +386,8 @@
               "RelativeToolTip": "..\\..\\..\\team project\\RP1.DataAccess\\DataAccess\\AppDBContext.cs",
               "ViewState": "AQIAACcAAAAAAAAAAIBJwC0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.619Z"
+              "WhenOpened": "2024-04-23T13:47:40.619Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -395,7 +410,8 @@
               "RelativeToolTip": "Pages\\Register.cshtml.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAgwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T10:35:42.65Z"
+              "WhenOpened": "2024-04-24T10:35:42.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -407,7 +423,8 @@
               "RelativeToolTip": "Pages\\Customer\\Home\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.73Z"
+              "WhenOpened": "2024-04-23T13:47:40.73Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -441,7 +458,8 @@
               "RelativeToolTip": "Pages\\Customer\\Home\\Book.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAIBJwAoAAAB0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T13:47:40.758Z"
+              "WhenOpened": "2024-04-23T13:47:40.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -453,7 +471,8 @@
               "RelativeToolTip": "..\\..\\..\\team project\\RP1.Models\\Models\\Type.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.782Z"
+              "WhenOpened": "2024-04-23T13:47:40.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -465,7 +484,8 @@
               "RelativeToolTip": "Pages\\Logout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T13:47:40.793Z"
+              "WhenOpened": "2024-04-23T13:47:40.793Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -477,7 +497,8 @@
               "RelativeToolTip": "Pages\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T13:47:40.805Z"
+              "WhenOpened": "2024-04-23T13:47:40.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -489,7 +510,8 @@
               "RelativeToolTip": "Pages\\Admin\\Types\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T13:47:40.811Z"
+              "WhenOpened": "2024-04-23T13:47:40.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -501,7 +523,8 @@
               "RelativeToolTip": "Pages\\Customer\\Home\\Book.cshtml.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAAiwDsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.818Z"
+              "WhenOpened": "2024-04-23T13:47:40.818Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -513,7 +536,8 @@
               "RelativeToolTip": "Pages\\Customer\\Home\\BookingMade.cshtml",
               "ViewState": "AQIAABMAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T13:47:40.824Z"
+              "WhenOpened": "2024-04-23T13:47:40.824Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -525,7 +549,8 @@
               "RelativeToolTip": "Pages\\Customer\\Home\\BookingMade.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.83Z"
+              "WhenOpened": "2024-04-23T13:47:40.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -537,7 +562,8 @@
               "RelativeToolTip": "Pages\\Customer\\Home\\Details.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAACKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.843Z"
+              "WhenOpened": "2024-04-23T13:47:40.843Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -549,7 +575,8 @@
               "RelativeToolTip": "Pages\\Customer\\Home\\Order.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.856Z"
+              "WhenOpened": "2024-04-23T13:47:40.856Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -561,7 +588,8 @@
               "RelativeToolTip": "Pages\\Admin\\Types\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.869Z"
+              "WhenOpened": "2024-04-23T13:47:40.869Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -573,7 +601,8 @@
               "RelativeToolTip": "Pages\\Admin\\Tickets\\Create.cshtml.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAywCAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.876Z"
+              "WhenOpened": "2024-04-23T13:47:40.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -585,7 +614,8 @@
               "RelativeToolTip": "Pages\\Admin\\Theatres\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.883Z"
+              "WhenOpened": "2024-04-23T13:47:40.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -597,7 +627,8 @@
               "RelativeToolTip": "Pages\\Admin\\Films\\Create.cshtml.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAIBJwBgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.889Z"
+              "WhenOpened": "2024-04-23T13:47:40.889Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -609,7 +640,8 @@
               "RelativeToolTip": "Pages\\Admin\\Bookings\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.896Z"
+              "WhenOpened": "2024-04-23T13:47:40.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -621,7 +653,8 @@
               "RelativeToolTip": "..\\..\\..\\team project\\RP1.Services\\UnitOfWork .cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.902Z"
+              "WhenOpened": "2024-04-23T13:47:40.902Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -633,7 +666,8 @@
               "RelativeToolTip": "..\\..\\..\\team project\\RP1.Services\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.909Z"
+              "WhenOpened": "2024-04-23T13:47:40.909Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -645,7 +679,8 @@
               "RelativeToolTip": "..\\..\\..\\team project\\RP1.Models\\Models\\Booking.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAMwA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.922Z"
+              "WhenOpened": "2024-04-23T13:47:40.922Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -657,7 +692,8 @@
               "RelativeToolTip": "Pages\\Admin\\Screenings\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwDgAAACtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:40.929Z"
+              "WhenOpened": "2024-04-23T13:47:40.929Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -669,7 +705,8 @@
               "RelativeToolTip": "..\\..\\..\\team project\\RP1.DataAccess\\RP1.DataAccess.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-23T13:47:40.945Z"
+              "WhenOpened": "2024-04-23T13:47:40.945Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -681,7 +718,8 @@
               "RelativeToolTip": "..\\..\\..\\team project\\RP1.Models\\Models\\Screening.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:41.033Z"
+              "WhenOpened": "2024-04-23T13:47:41.033Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -693,7 +731,8 @@
               "RelativeToolTip": "..\\..\\..\\team project\\RP1.Models\\Models\\Ticket.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAmwAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T13:47:41.039Z"
+              "WhenOpened": "2024-04-23T13:47:41.039Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -718,18 +757,15 @@
               "RelativeToolTip": "Pages\\Admin\\Screenings\\Create.cshtml",
               "ViewState": "AQIAAAgAAAAAAAAAAAAMwB0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T13:47:41.059Z"
+              "WhenOpened": "2024-04-23T13:47:41.059Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 388,
+          "DockedWidth": 149,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
