@@ -74,7 +74,7 @@ namespace tut1.Pages.Customer.Home
 				_unitOfWork.Save();
 			}
             EmailSender emailSender = new EmailSender();
-            emailSender.SendEmail(booking.Email,booking.Id,booking.Cost).Wait();
+            //emailSender.SendEmail(booking.Email,booking.Id,booking.Cost).Wait();
             return RedirectToPage("BookingMade");
 		}
 

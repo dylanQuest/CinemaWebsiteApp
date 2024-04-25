@@ -5,6 +5,7 @@ namespace tut1.Pages.Customer.Home
 {
     public class EmailSender
     {
+        //code block skeleton provided by the sendgrid API
         public async Task SendEmail(string user, int id, double cost)
         {
             var apiKey = "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";
