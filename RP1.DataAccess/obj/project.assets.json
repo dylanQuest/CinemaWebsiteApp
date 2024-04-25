@@ -9597,11 +9597,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.DataAccess\\RP1.DataAccess.csproj",
       "projectName": "RP1.DataAccess",
-      "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.DataAccess\\RP1.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9618,8 +9618,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
-              "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj"
+            "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\RP1.Models.csproj": {
+              "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\RP1.Models.csproj"
             }
           }
         }
