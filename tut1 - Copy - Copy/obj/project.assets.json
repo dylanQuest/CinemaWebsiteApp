@@ -9698,27 +9698,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\L00169531\\.nuget\\packages\\": {}
+    "C:\\Users\\Owner\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
       "projectName": "tut1",
       "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\teamday\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
-      "projectName": "tut1",
-      "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\teamday\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
-      "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\teamday\\team-1-project\\tut1 - Copy - Copy\\obj\\",
->>>>>>> fcada51d0a98de2f11d2e321d393b0e90e076b92
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\L00169531\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9732,7 +9724,6 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-<<<<<<< HEAD
             "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {
               "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj"
             },
@@ -9741,16 +9732,6 @@
             },
             "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Services\\RP1.Services.csproj": {
               "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Services\\RP1.Services.csproj"
-=======
-            "C:\\Users\\L00169531\\Source\\Repos\\teamday\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\teamday\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj"
-            },
-            "C:\\Users\\L00169531\\Source\\Repos\\teamday\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
-              "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\teamday\\team-1-project\\RP1.Models\\RP1.Models.csproj"
-            },
-            "C:\\Users\\L00169531\\Source\\Repos\\teamday\\team-1-project\\RP1.Services\\RP1.Services.csproj": {
-              "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\teamday\\team-1-project\\RP1.Services\\RP1.Services.csproj"
->>>>>>> fcada51d0a98de2f11d2e321d393b0e90e076b92
             }
           }
         }
@@ -9759,6 +9740,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -9811,7 +9797,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
