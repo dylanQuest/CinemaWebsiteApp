@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "CCarFRzSJIxigtewuVjQIvw4YbZCNOxwMkLmNHT+/8uyWceoiMSyF15ncCQ2m3n74+Miw+srCFpxBAZ1dHcEZA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj",
-=======
-  "dgSpecHash": "Yz1Hz/ScumRCpVpoMQmqqFlz3wNL2bPmQflnXWEPh3LETfApAgvE5fJyBvYqun+d74PK5tzeUAocZP+72ASNzQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\L00169531\\Source\\Repos\\teamday\\team-1-project\\RP1.Models\\RP1.Models.csproj",
->>>>>>> fcada51d0a98de2f11d2e321d393b0e90e076b92
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
