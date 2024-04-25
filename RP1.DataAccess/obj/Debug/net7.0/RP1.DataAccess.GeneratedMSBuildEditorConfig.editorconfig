@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RP1.DataAccess
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\New folder (5)\RP1.DataAccess\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+=======
+build_property.ProjectDir = C:\Users\L00169531\Source\Repos\teamdayfinal\team-1-project\RP1.DataAccess\
+>>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
