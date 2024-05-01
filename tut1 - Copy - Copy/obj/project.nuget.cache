@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hpAqKFqz2wzQRu8O8p7Zglrb/tECaZHSZcaIIY3I96FDFDLabbfAHv+TyxVr0NVK17XeXWCFaNcRKZ8B+rTuxg==",
+  "dgSpecHash": "B9sflEUiJAhpZi1/5/Z+Q/BvO/GuCpi44dk4IgsH8x/2tfS+fINTnVbniYHZ30bUBdslH4e2ThOHJr2ZcnnM+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
+  "projectFilePath": "C:\\Users\\L00169531\\source\\repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\L00169531\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\L00169531\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
