@@ -1,20 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "rfmgBU716FHrTYl3GrcVShv4MSwE56EP7DRhPnvu8RhJK130Kv/liduK/FRJMUxlom3e8nDc81ldedoNelAPKw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\tut1.csproj",
-=======
-<<<<<<< HEAD
-  "dgSpecHash": "rfmgBU716FHrTYl3GrcVShv4MSwE56EP7DRhPnvu8RhJK130Kv/liduK/FRJMUxlom3e8nDc81ldedoNelAPKw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\tut1.csproj",
-=======
-  "dgSpecHash": "hpAqKFqz2wzQRu8O8p7Zglrb/tECaZHSZcaIIY3I96FDFDLabbfAHv+TyxVr0NVK17XeXWCFaNcRKZ8B+rTuxg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
->>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
->>>>>>> parent of 8c3538b (changes)
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

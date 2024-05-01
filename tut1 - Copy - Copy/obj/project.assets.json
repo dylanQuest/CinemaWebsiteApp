@@ -9703,25 +9703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> parent of 8c3538b (changes)
       "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\tut1.csproj",
       "projectName": "tut1",
       "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\tut1.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\obj\\",
-<<<<<<< HEAD
-=======
-=======
-      "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
-      "projectName": "tut1",
-      "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
-      "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\obj\\",
->>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
->>>>>>> parent of 8c3538b (changes)
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9738,10 +9724,6 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> parent of 8c3538b (changes)
             "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.DataAccess\\RP1.DataAccess.csproj": {
               "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.DataAccess\\RP1.DataAccess.csproj"
             },
@@ -9750,19 +9732,6 @@
             },
             "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Services\\RP1.Services.csproj": {
               "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Services\\RP1.Services.csproj"
-<<<<<<< HEAD
-=======
-=======
-            "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj"
-            },
-            "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
-              "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Models\\RP1.Models.csproj"
-            },
-            "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Services\\RP1.Services.csproj": {
-              "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Services\\RP1.Services.csproj"
->>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
->>>>>>> parent of 8c3538b (changes)
             }
           }
         }
