@@ -2,21 +2,16 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
-<<<<<<< HEAD
     "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\RP1.Models.csproj": {}
-=======
-    "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj": {}
->>>>>>> parent of a544c18 (blue)
   },
   "projects": {
-    "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
+    "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\RP1.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\RP1.Models.csproj",
         "projectName": "RP1.Models",
-        "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj",
+        "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\RP1.Models.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-<<<<<<< HEAD
         "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\obj\\",
 =======
     "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Models\\RP1.Models.csproj": {}
@@ -31,9 +26,6 @@
         "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Models\\obj\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-        "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\obj\\",
->>>>>>> parent of a544c18 (blue)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\L00169531\\AppData\\Roaming\\NuGet\\NuGet.Config",

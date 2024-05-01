@@ -2,21 +2,16 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
-<<<<<<< HEAD
     "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\tut1.csproj": {}
-=======
-    "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj": {}
->>>>>>> parent of a544c18 (blue)
   },
   "projects": {
-    "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {
+    "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.DataAccess\\RP1.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.DataAccess\\RP1.DataAccess.csproj",
         "projectName": "RP1.DataAccess",
-        "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.DataAccess\\RP1.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-<<<<<<< HEAD
         "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.DataAccess\\obj\\",
 =======
     "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj": {}
@@ -31,9 +26,6 @@
         "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.DataAccess\\obj\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-        "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.DataAccess\\obj\\",
->>>>>>> parent of a544c18 (blue)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\L00169531\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,17 +43,12 @@
             "targetAlias": "net7.0",
             "projectReferences": {
 <<<<<<< HEAD
-<<<<<<< HEAD
               "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\RP1.Models.csproj": {
                 "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\RP1.Models.csproj"
 =======
               "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
                 "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Models\\RP1.Models.csproj"
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-              "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
-                "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj"
->>>>>>> parent of a544c18 (blue)
               }
             }
           }
@@ -126,18 +113,13 @@
       }
     },
 <<<<<<< HEAD
-<<<<<<< HEAD
     "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\RP1.Models.csproj": {
-=======
-    "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
->>>>>>> parent of a544c18 (blue)
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\RP1.Models.csproj",
         "projectName": "RP1.Models",
-        "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj",
+        "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\RP1.Models.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-<<<<<<< HEAD
         "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\obj\\",
 =======
     "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
@@ -149,9 +131,6 @@
         "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Models\\obj\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-        "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\obj\\",
->>>>>>> parent of a544c18 (blue)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\L00169531\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -200,18 +179,13 @@
       }
     },
 <<<<<<< HEAD
-<<<<<<< HEAD
     "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Services\\RP1.Services.csproj": {
-=======
-    "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Services\\RP1.Services.csproj": {
->>>>>>> parent of a544c18 (blue)
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Services\\RP1.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Services\\RP1.Services.csproj",
         "projectName": "RP1.Services",
-        "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Services\\RP1.Services.csproj",
+        "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Services\\RP1.Services.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-<<<<<<< HEAD
         "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Services\\obj\\",
 =======
     "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Services\\RP1.Services.csproj": {
@@ -223,9 +197,6 @@
         "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Services\\obj\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-        "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Services\\obj\\",
->>>>>>> parent of a544c18 (blue)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\L00169531\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -243,7 +214,6 @@
             "targetAlias": "net7.0",
             "projectReferences": {
 <<<<<<< HEAD
-<<<<<<< HEAD
               "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.DataAccess\\RP1.DataAccess.csproj": {
                 "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.DataAccess\\RP1.DataAccess.csproj"
               },
@@ -256,13 +226,6 @@
               "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
                 "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Models\\RP1.Models.csproj"
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-              "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj"
-              },
-              "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
-                "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj"
->>>>>>> parent of a544c18 (blue)
               }
             }
           }
@@ -303,18 +266,13 @@
       }
     },
 <<<<<<< HEAD
-<<<<<<< HEAD
     "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\tut1.csproj": {
-=======
-    "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj": {
->>>>>>> parent of a544c18 (blue)
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\tut1.csproj",
         "projectName": "tut1",
-        "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
+        "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\tut1.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-<<<<<<< HEAD
         "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\obj\\",
 =======
     "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj": {
@@ -326,9 +284,6 @@
         "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\obj\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-        "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\obj\\",
->>>>>>> parent of a544c18 (blue)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\L00169531\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -346,18 +301,12 @@
             "targetAlias": "net7.0",
             "projectReferences": {
 <<<<<<< HEAD
-<<<<<<< HEAD
               "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.DataAccess\\RP1.DataAccess.csproj": {
                 "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.DataAccess\\RP1.DataAccess.csproj"
-=======
-              "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj"
->>>>>>> parent of a544c18 (blue)
               },
-              "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
-                "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Models\\RP1.Models.csproj"
+              "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\RP1.Models.csproj": {
+                "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\RP1.Models.csproj"
               },
-<<<<<<< HEAD
               "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Services\\RP1.Services.csproj": {
                 "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Services\\RP1.Services.csproj"
 =======
@@ -370,10 +319,6 @@
               "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Services\\RP1.Services.csproj": {
                 "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Services\\RP1.Services.csproj"
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-              "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Services\\RP1.Services.csproj": {
-                "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Services\\RP1.Services.csproj"
->>>>>>> parent of a544c18 (blue)
               }
             }
           }

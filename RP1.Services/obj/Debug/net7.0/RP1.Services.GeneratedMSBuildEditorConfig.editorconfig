@@ -9,11 +9,7 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RP1.Services
 <<<<<<< HEAD
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\New folder (5)\RP1.Services\
-=======
-build_property.ProjectDir = C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\FIIIIIIIIIIIIIINAL TEAM PROJECT\team-1-project\RP1.Services\
->>>>>>> parent of a544c18 (blue)
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 =======

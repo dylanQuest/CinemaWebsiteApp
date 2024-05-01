@@ -325,7 +325,6 @@ C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\FIIIIIIIII
 C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\FIIIIIIIIIIIIIINAL TEAM PROJECT\team-1-project\RP1.Services\obj\Debug\net7.0\RP1.Services.pdb
 C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\FIIIIIIIIIIIIIINAL TEAM PROJECT\team-1-project\RP1.Services\obj\Debug\net7.0\ref\RP1.Services.dll
 <<<<<<< HEAD
-<<<<<<< HEAD
 C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\New folder (5)\RP1.Services\bin\Debug\net7.0\RP1.Services.deps.json
 C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\New folder (5)\RP1.Services\bin\Debug\net7.0\RP1.Services.dll
 C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\New folder (5)\RP1.Services\bin\Debug\net7.0\RP1.Services.pdb
@@ -363,5 +362,3 @@ C:\Users\L00169531\Source\Repos\teamdayfinal\team-1-project\RP1.Services\obj\Deb
 C:\Users\L00169531\Source\Repos\teamdayfinal\team-1-project\RP1.Services\obj\Debug\net7.0\RP1.Services.pdb
 C:\Users\L00169531\Source\Repos\teamdayfinal\team-1-project\RP1.Services\obj\Debug\net7.0\ref\RP1.Services.dll
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
->>>>>>> parent of a544c18 (blue)

@@ -1,14 +1,10 @@
 {
   "Version": 1,
 <<<<<<< HEAD
-<<<<<<< HEAD
   "Hash": "S8Yhj6n6FVx9vJ0AsHxDMHUi5GT5U0thDX60WPuIqNw=",
 =======
   "Hash": "eWcGZPsjYuHk1dytOMzS3kKwBcO/VAw0JgAOJmrRkUg=",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-  "Hash": "dfEjfe4XJqkt2T3q1e4f3Fl5uUCeebDH41b7Ckp+NAw=",
->>>>>>> parent of a544c18 (blue)
   "Source": "tut1",
   "BasePath": "_content/tut1",
   "Mode": "Default",
@@ -19,21 +15,16 @@
       "Name": "tut1\\wwwroot",
       "Source": "tut1",
 <<<<<<< HEAD
-<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\",
 =======
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\bundle\\tut1.styles.css",
       "SourceId": "tut1",
@@ -45,12 +36,6 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\bundle\\tut1.styles.css",
-      "SourceId": "tut1",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "tut1.styles.css",
       "AssetKind": "All",
@@ -62,17 +47,12 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
 <<<<<<< HEAD
-<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\bundle\\tut1.styles.css"
-=======
-      "OriginalItemSpec": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\bundle\\tut1.styles.css"
->>>>>>> parent of a544c18 (blue)
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\tut1.bundle.scp.css",
+      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\tut1.bundle.scp.css",
       "SourceId": "tut1",
       "SourceType": "Computed",
-<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
 =======
       "OriginalItemSpec": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\bundle\\tut1.styles.css"
@@ -83,9 +63,6 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "tut1.bundle.scp.css",
       "AssetKind": "All",
@@ -97,17 +74,12 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
 <<<<<<< HEAD
-<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\tut1.bundle.scp.css"
-=======
-      "OriginalItemSpec": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\tut1.bundle.scp.css"
->>>>>>> parent of a544c18 (blue)
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
-<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\",
 =======
       "OriginalItemSpec": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\tut1.bundle.scp.css"
@@ -118,9 +90,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -135,7 +104,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap2.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -146,12 +114,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap2.css",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "css/bootstrap2.css",
       "AssetKind": "All",
@@ -166,7 +128,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\css\\site.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -177,12 +138,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\css\\site.css",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -197,7 +152,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\favicon.ico",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -208,12 +162,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\favicon.ico",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -228,7 +176,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\airplane.png",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -239,12 +186,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\airplane.png",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/airplane.png",
       "AssetKind": "All",
@@ -259,7 +200,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\akira.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -270,12 +210,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\akira.jpg",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/akira.jpg",
       "AssetKind": "All",
@@ -290,7 +224,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\aqua.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -301,12 +234,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\aqua.jpg",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/aqua.jpg",
       "AssetKind": "All",
@@ -321,7 +248,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\barbie.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -332,12 +258,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\barbie.jpg",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/barbie.jpg",
       "AssetKind": "All",
@@ -352,7 +272,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\dune.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -363,12 +282,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\dune.jpg",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/dune.jpg",
       "AssetKind": "All",
@@ -383,7 +296,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\inBrug.png",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -394,12 +306,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\inBrug.png",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/inBrug.png",
       "AssetKind": "All",
@@ -414,7 +320,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\jjk.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -425,12 +330,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\jjk.jpg",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/jjk.jpg",
       "AssetKind": "All",
@@ -445,7 +344,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\nausicaa.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -456,12 +354,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\nausicaa.jpg",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/nausicaa.jpg",
       "AssetKind": "All",
@@ -476,7 +368,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\opp.jpg",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -487,12 +378,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\opp.jpg",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "Images/Films/opp.jpg",
       "AssetKind": "All",
@@ -507,7 +392,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -518,12 +402,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -538,7 +416,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -549,12 +426,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -569,7 +440,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -580,12 +450,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -600,7 +464,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -611,12 +474,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -631,7 +488,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -642,12 +498,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -662,7 +512,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -673,12 +522,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -693,7 +536,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -704,12 +546,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -724,7 +560,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -735,12 +570,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -755,7 +584,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -766,12 +594,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -786,7 +608,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -797,12 +618,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -817,7 +632,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -828,12 +642,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -848,7 +656,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -859,12 +666,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -879,7 +680,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -890,12 +690,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -910,7 +704,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -921,12 +714,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -941,7 +728,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -952,12 +738,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -972,7 +752,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -983,12 +762,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1003,7 +776,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -1014,12 +786,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1034,7 +800,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -1045,12 +810,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1065,7 +824,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -1076,12 +834,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1096,7 +848,6 @@
     },
     {
 <<<<<<< HEAD
-<<<<<<< HEAD
       "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "tut1",
       "SourceType": "Discovered",
@@ -1107,12 +858,6 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
-=======
-      "Identity": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "tut1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\",
->>>>>>> parent of a544c18 (blue)
       "BasePath": "_content/tut1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
