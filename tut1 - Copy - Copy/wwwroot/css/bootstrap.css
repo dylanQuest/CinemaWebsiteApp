@@ -4916,11 +4916,11 @@ textarea.form-control-lg {
     --bs-card-inner-border-radius: calc(var(--bs-border-radius) - (var(--bs-border-width)));
     --bs-card-cap-padding-y: 0.5rem;
     --bs-card-cap-padding-x: 1rem;
-    --bs-card-cap-bg: #0C0F5F;
+    --bs-card-cap-bg: #524c97;
     --bs-card-cap-color:;
     --bs-card-height: 100%;
     --bs-card-color: #FF204E;
-    --bs-card-bg: #0C0F5F;
+    --bs-card-bg: #0d0c18;
     --bs-card-img-overlay-padding: 1rem;
     --bs-card-group-margin: 0.75rem;
     position: relative;
