@@ -21,16 +21,16 @@
 			<span asp-validation-for="@Model.ticketCount" class="text-danger"></span>
 		</div>
 
-            <div class="row justify-content-center">
-                <div class="mb-3 col-md-6">
-                    <label asp-for="@Model.Booking.Cost"></label>
-                    <input id="cost" asp-for="@Model.Booking.Cost" readonly required="required" class="form-control"/>
-                    <span asp-validation-for="@Model.Booking.Cost" class="text-danger"></span>
-                </div>
+        <div class="row justify-content-center">
+        <div class="mb-3 col-md-6">
+            <label asp-for="@Model.Booking.Cost"></label>
+            <input id="cost" asp-for="@Model.Booking.Cost" readonly required="required" class="form-control"/>
+            <span asp-validation-for="@Model.Booking.Cost" class="text-danger"></span>
+        </div>
 
-		<div class="mb-3">
+		<div class="mb-3 col-md-6">
 			<label asp-for="@Model.Booking.Email"></label>
-			<input asp-for="@Model.Booking.Email" required="required" />
+			<input asp-for="@Model.Booking.Email" required="required" class="form-control" />
 			<span asp-validation-for="@Model.Booking.Email" class="text-danger"></span>
 		</div>
 
@@ -45,9 +45,10 @@
                 </div>
             </div>
 
-		<div class="col-12 col-md-6 ">
+			<div class="col-12 col-md-6 d-flex justify-content-between">
 			<button type="submit" class="btn btn-primary btn-square form-control" style="height:50px;">Book</button>
-			<a asp-page="Index" class="btn btn-secondary">Back to Index</a>
+			 <a asp-page="Index" class="btn btn-primary btn-square form-control">Back to Home</a>
+		</div>
 		</div>
 	</form>
 
