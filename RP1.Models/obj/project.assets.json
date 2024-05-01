@@ -8,27 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\L00169531\\.nuget\\packages\\": {}
+    "C:\\Users\\Owner\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\RP1.Models.csproj",
       "projectName": "RP1.Models",
       "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\RP1.Models.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Models\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Models\\RP1.Models.csproj",
-      "projectName": "RP1.Models",
-      "projectPath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Models\\RP1.Models.csproj",
-      "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Models\\obj\\",
->>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\L00169531\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -48,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -69,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
