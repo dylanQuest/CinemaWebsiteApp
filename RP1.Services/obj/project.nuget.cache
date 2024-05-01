@@ -1,6 +1,7 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "e0Uw8BXhz4ZqM1c61fkrw+M//OH8errKrCcRzdgTP2eBzNpDBvBWFscyTIooBwxGDd0hBnY63arGFfYOXvAWSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.Services\\RP1.Services.csproj",
@@ -9,6 +10,11 @@
   "success": true,
   "projectFilePath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.Services\\RP1.Services.csproj",
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
+=======
+  "dgSpecHash": "uTUKgpJgUZzq3YWQC7Zfqit01jaUDWNqtQ2SmPsczV3wkYjTfNKnT9pbZFjZEd0NP9q7QvpQ/S8fdKgnif2hQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\RP1.Services\\RP1.Services.csproj",
+>>>>>>> parent of a544c18 (blue)
   "expectedPackageFiles": [
     "C:\\Users\\L00169531\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\L00169531\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

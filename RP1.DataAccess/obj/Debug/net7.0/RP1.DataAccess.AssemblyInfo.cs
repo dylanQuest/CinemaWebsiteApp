@@ -15,10 +15,14 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28c6ed6c19309c3ee21a8c677f18ce16f9022a09")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 >>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba0d6a54e20bf5a0e9ca121cd0b117d21d64e549")]
+>>>>>>> parent of a544c18 (blue)
 [assembly: System.Reflection.AssemblyProductAttribute("RP1.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RP1.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
