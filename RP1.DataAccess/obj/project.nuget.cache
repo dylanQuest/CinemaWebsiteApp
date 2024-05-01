@@ -1,8 +1,20 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "SVfvuft/BT4JnFvs5iHSBSYJwEEcHgfMUa5AJ5snSiXonDEdvRcuUfSrRlwihUNGhmil+9jsTVa5FO4A+920tw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.DataAccess\\RP1.DataAccess.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "SVfvuft/BT4JnFvs5iHSBSYJwEEcHgfMUa5AJ5snSiXonDEdvRcuUfSrRlwihUNGhmil+9jsTVa5FO4A+920tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\New folder (5)\\RP1.DataAccess\\RP1.DataAccess.csproj",
+=======
+  "dgSpecHash": "bQvCdvS/4EtOo5qNQ2hM5dOh6HsRs3wYMBRWU109aHL9HmpME4qGRDoKGU8d7hV71qqN21SjduFYZui/WYMXCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\L00169531\\Source\\Repos\\teamdayfinal\\team-1-project\\RP1.DataAccess\\RP1.DataAccess.csproj",
+>>>>>>> 40e208c31359e390fad1c8fd623b18030299c51b
+>>>>>>> parent of 8c3538b (changes)
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

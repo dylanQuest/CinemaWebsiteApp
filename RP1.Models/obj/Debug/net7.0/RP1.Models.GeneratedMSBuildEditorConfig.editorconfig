@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RP1.Models
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> parent of 8c3538b (changes)
 build_property.ProjectDir = C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\New folder (5)\RP1.Models\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
