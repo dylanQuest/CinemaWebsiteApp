@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\L00169531\\source\\repos\\teamdayfinal\\team-1-project\\RP1.Models\\RP1.Models.csproj": {}
+    "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\RP1.Models\\RP1.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\L00169531\\source\\repos\\teamdayfinal\\team-1-project\\RP1.Models\\RP1.Models.csproj": {
+    "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\RP1.Models\\RP1.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L00169531\\source\\repos\\teamdayfinal\\team-1-project\\RP1.Models\\RP1.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\RP1.Models\\RP1.Models.csproj",
         "projectName": "RP1.Models",
-        "projectPath": "C:\\Users\\L00169531\\source\\repos\\teamdayfinal\\team-1-project\\RP1.Models\\RP1.Models.csproj",
-        "packagesPath": "C:\\Users\\L00169531\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L00169531\\source\\repos\\teamdayfinal\\team-1-project\\RP1.Models\\obj\\",
+        "projectPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\RP1.Models\\RP1.Models.csproj",
+        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\RP1.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\L00169531\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,38 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

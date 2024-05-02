@@ -9,169 +9,171 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = tut1
 build_property.RootNamespace = tut1
-build_property.ProjectDir = C:\Users\L00169531\source\repos\teamdayfinal\team-1-project\tut1 - Copy - Copy\
+build_property.ProjectDir = C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\TEEEEEM PROJ\tut1 - Copy - Copy\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\L00169531\source\repos\teamdayfinal\team-1-project\tut1 - Copy - Copy
+build_property.MSBuildProjectDirectory = C:\Users\Owner\OneDrive - Letterkenny Institute of Technology\Desktop\TEEEEEM PROJ\tut1 - Copy - Copy
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/AccessDenied.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjZXNzRGVuaWVkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Bookings/Create.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Bookings/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va2luZ3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Bookings/Delete.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Bookings/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va2luZ3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Bookings/Edit.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Bookings/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va2luZ3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Bookings/Index.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Bookings/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va2luZ3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Films/Create.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Films/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRmlsbXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Films/Delete.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Films/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRmlsbXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Films/Edit.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Films/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRmlsbXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Films/Index.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Films/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRmlsbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Screenings/Create.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Screenings/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cU2NyZWVuaW5nc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Screenings/Delete.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Screenings/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cU2NyZWVuaW5nc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Screenings/Edit.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Screenings/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cU2NyZWVuaW5nc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Screenings/Index.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Screenings/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cU2NyZWVuaW5nc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Theatres/Create.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Theatres/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVGhlYXRyZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Theatres/Delete.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Theatres/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVGhlYXRyZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Theatres/Edit.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Theatres/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVGhlYXRyZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Theatres/Index.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Theatres/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVGhlYXRyZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Tickets/Create.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Tickets/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVGlja2V0c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Tickets/Delete.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Tickets/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVGlja2V0c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Tickets/Edit.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Tickets/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVGlja2V0c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Tickets/Index.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Tickets/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVGlja2V0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Types/Create.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Types/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVHlwZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Types/Delete.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Types/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVHlwZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Types/Edit.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Types/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVHlwZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Admin/Types/Index.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Admin/Types/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVHlwZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Customer/Home/Book.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Customer/Home/Book.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcSG9tZVxCb29rLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Customer/Home/BookingMade.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Customer/Home/BookingMade.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcSG9tZVxCb29raW5nTWFkZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Customer/Home/Details.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Customer/Home/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcSG9tZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Customer/Home/Index.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Customer/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Customer/Home/Order.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Customer/Home/Order.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcSG9tZVxPcmRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Error.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Index.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Login.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Logout.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Privacy.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Register.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/_ViewImports.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/_ViewStart.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/L00169531/source/repos/teamdayfinal/team-1-project/tut1 - Copy - Copy/Pages/Shared/_Layout.cshtml]
+[C:/Users/Owner/OneDrive - Letterkenny Institute of Technology/Desktop/TEEEEEM PROJ/tut1 - Copy - Copy/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-y5a4ckj7jb

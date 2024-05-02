@@ -1,141 +1,156 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\",
+  "WorkspaceRootPath": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2A863C09-6FC6-4B4A-8059-8D735ED115D8}|..\\RP1.DataAccess\\RP1.DataAccess.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\rp1.dataaccess\\migrations\\20240501222308_ver1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EDC336-D484-4250-901C-0EC0B531C698}|..\\RP1.Tests\\RP1.Tests.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\rp1.tests\\addbookingrecordtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EDC336-D484-4250-901C-0EC0B531C698}|..\\RP1.Tests\\RP1.Tests.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\rp1.tests\\addscreeningrecordtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01961EA3-6E45-4E21-A8EF-F42A08C01B1C}|..\\RP1.Models\\RP1.Models.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\rp1.models\\models\\screening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EDC336-D484-4250-901C-0EC0B531C698}|..\\RP1.Tests\\RP1.Tests.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\rp1.tests\\rp1.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\customer\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\customer\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\customer\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\customer\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\customer\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\customer\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\customer\\home\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\customer\\home\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\customer\\home\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\admin\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\admin\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\admin\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\admin\\films\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\admin\\films\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\admin\\films\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\admin\\screenings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\admin\\screenings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\admin\\screenings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\admin\\theatres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\admin\\theatres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\admin\\theatres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\admin\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\admin\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\admin\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\admin\\types\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\admin\\types\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\admin\\types\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\pageviewmodels\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\pageviewmodels\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\pageviewmodels\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\customer\\home\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\customer\\home\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\customer\\home\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\customer\\home\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\customer\\home\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\customer\\home\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\customer\\home\\order.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\customer\\home\\order.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\customer\\home\\order.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\customer\\home\\bookingmade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\customer\\home\\bookingmade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\customer\\home\\bookingmade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\customer\\home\\bookingmade.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\customer\\home\\bookingmade.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\customer\\home\\bookingmade.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\customer\\home\\book.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\customer\\home\\book.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\customer\\home\\book.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\customer\\home\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\customer\\home\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\customer\\home\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\admin\\types\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\admin\\types\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\admin\\types\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\admin\\types\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\admin\\types\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\admin\\types\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\admin\\tickets\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\admin\\tickets\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\admin\\tickets\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\admin\\theatres\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\admin\\theatres\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\admin\\theatres\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\admin\\screenings\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\admin\\screenings\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\admin\\screenings\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\admin\\films\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\admin\\films\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\admin\\films\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\admin\\bookings\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\admin\\bookings\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\admin\\bookings\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\tut1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\tut1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:tut1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\fiiiiiiiiiiiiiinal team project\\team-1-project\\tut1 - copy - copy\\pages\\admin\\screenings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|c:\\users\\owner\\onedrive - letterkenny institute of technology\\desktop\\teeeeem proj\\tut1 - copy - copy\\pages\\admin\\screenings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C37755B3-0DC1-418B-A53D-C9DF12C0C7B1}|tut1.csproj|solutionrelative:pages\\admin\\screenings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -178,29 +193,29 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 251,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 25,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABYAAAAAAAAAAAAwwCAAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T13:47:40.775Z",
+              "DocumentIndex": 5,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\css\\bootstrap.css",
+              "ViewState": "AQIAADEQAAAAzm54ORAjwEEQAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-23T13:50:19.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Types\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Types\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Types\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Types\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Types\\Index.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Types\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -209,24 +224,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\bootstrap.css",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\wwwroot\\css\\bootstrap.css",
-              "RelativeToolTip": "wwwroot\\css\\bootstrap.css",
-              "ViewState": "AQIAAF0RAAAAAAAAAAAmwHMRAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-23T13:50:19.309Z",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T13:47:40.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Customer\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Index.cshtml",
               "RelativeToolTip": "Pages\\Customer\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -235,11 +250,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Customer\\Home\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Details.cshtml",
               "RelativeToolTip": "Pages\\Customer\\Home\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -248,11 +263,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -261,11 +276,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Screenings\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Screenings\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Screenings\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Screenings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Screenings\\Index.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Screenings\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -274,11 +289,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Films\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Films\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Films\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Films\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Films\\Index.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Films\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -287,11 +302,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Theatres\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Theatres\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Theatres\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Theatres\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Theatres\\Index.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Theatres\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -300,24 +315,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Order.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Order.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Order.cshtml",
               "RelativeDocumentMoniker": "Pages\\Customer\\Home\\Order.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Order.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Order.cshtml",
               "RelativeToolTip": "Pages\\Customer\\Home\\Order.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAyAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAACBjwCEAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-23T13:47:40.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -326,11 +341,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Bookings\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Bookings\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Bookings\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Bookings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Bookings\\Index.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Bookings\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -339,11 +354,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Tickets\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Tickets\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Tickets\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Tickets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Tickets\\Index.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Tickets\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -352,11 +367,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Register.cshtml",
               "RelativeDocumentMoniker": "Pages\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Register.cshtml",
               "RelativeToolTip": "Pages\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -365,11 +380,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\PageViewModels\\Register.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\PageViewModels\\Register.cs",
               "RelativeDocumentMoniker": "Pages\\PageViewModels\\Register.cs",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\PageViewModels\\Register.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\PageViewModels\\Register.cs",
               "RelativeToolTip": "Pages\\PageViewModels\\Register.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -378,35 +393,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "AppDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.DataAccess\\DataAccess\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\team project\\RP1.DataAccess\\DataAccess\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\team project\\RP1.DataAccess\\DataAccess\\AppDBContext.cs",
               "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.DataAccess\\DataAccess\\AppDBContext.cs",
-              "RelativeToolTip": "..\\..\\..\\team project\\RP1.DataAccess\\DataAccess\\AppDBContext.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAIBJwC0AAAAnAAAA",
+              "RelativeToolTip": "..\\..\\team project\\RP1.DataAccess\\DataAccess\\AppDBContext.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBpwC0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T13:47:40.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "06050fb1-d60b-4f97-80fa-0013abfb490e.jpg",
               "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\06050fb1-d60b-4f97-80fa-0013abfb490e.jpg",
-              "RelativeDocumentMoniker": "..\\..\\..\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\06050fb1-d60b-4f97-80fa-0013abfb490e.jpg",
+              "RelativeDocumentMoniker": "..\\..\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\06050fb1-d60b-4f97-80fa-0013abfb490e.jpg",
               "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\06050fb1-d60b-4f97-80fa-0013abfb490e.jpg",
-              "RelativeToolTip": "..\\..\\..\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\06050fb1-d60b-4f97-80fa-0013abfb490e.jpg",
+              "RelativeToolTip": "..\\..\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\06050fb1-d60b-4f97-80fa-0013abfb490e.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-04-23T13:47:40.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Register.cshtml.cs",
               "RelativeToolTip": "Pages\\Register.cshtml.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAgwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -415,11 +430,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Customer\\Home\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Customer\\Home\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -428,47 +443,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
               "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
-              "RelativeDocumentMoniker": "..\\..\\..\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
+              "RelativeDocumentMoniker": "..\\..\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
               "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
-              "RelativeToolTip": "..\\..\\..\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
+              "RelativeToolTip": "..\\..\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\168dd146-0c24-4e01-9ad0-91bd8455af24.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-04-23T13:47:40.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "02da237c-917f-4369-9ee6-354f3e7f1f24.jpg",
               "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\02da237c-917f-4369-9ee6-354f3e7f1f24.jpg",
-              "RelativeDocumentMoniker": "..\\..\\..\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\02da237c-917f-4369-9ee6-354f3e7f1f24.jpg",
+              "RelativeDocumentMoniker": "..\\..\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\02da237c-917f-4369-9ee6-354f3e7f1f24.jpg",
               "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\02da237c-917f-4369-9ee6-354f3e7f1f24.jpg",
-              "RelativeToolTip": "..\\..\\..\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\02da237c-917f-4369-9ee6-354f3e7f1f24.jpg",
+              "RelativeToolTip": "..\\..\\team project\\tut1 - Copy - Copy\\wwwroot\\Images\\Films\\02da237c-917f-4369-9ee6-354f3e7f1f24.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-04-23T13:47:40.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Book.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Book.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Book.cshtml",
               "RelativeDocumentMoniker": "Pages\\Customer\\Home\\Book.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Book.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Book.cshtml",
               "RelativeToolTip": "Pages\\Customer\\Home\\Book.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAIBJwAoAAAB0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBpwAoAAAB0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-23T13:47:40.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "Type.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.Models\\Models\\Type.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\team project\\RP1.Models\\Models\\Type.cs",
+              "RelativeDocumentMoniker": "..\\..\\team project\\RP1.Models\\Models\\Type.cs",
               "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.Models\\Models\\Type.cs",
-              "RelativeToolTip": "..\\..\\..\\team project\\RP1.Models\\Models\\Type.cs",
+              "RelativeToolTip": "..\\..\\team project\\RP1.Models\\Models\\Type.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T13:47:40.782Z",
@@ -476,11 +491,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Logout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Logout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Logout.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Logout.cshtml",
               "RelativeToolTip": "Pages\\Logout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -489,11 +504,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Privacy.cshtml",
               "RelativeToolTip": "Pages\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -502,11 +517,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Types\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Types\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Types\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Types\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Types\\Create.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Types\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -515,11 +530,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Book.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Book.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Book.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Customer\\Home\\Book.cshtml.cs",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Book.cshtml.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Book.cshtml.cs",
               "RelativeToolTip": "Pages\\Customer\\Home\\Book.cshtml.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAAiwDsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -528,24 +543,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "BookingMade.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\BookingMade.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\BookingMade.cshtml",
               "RelativeDocumentMoniker": "Pages\\Customer\\Home\\BookingMade.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\BookingMade.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\BookingMade.cshtml",
               "RelativeToolTip": "Pages\\Customer\\Home\\BookingMade.cshtml",
-              "ViewState": "AQIAABMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAIBpwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-23T13:47:40.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "BookingMade.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\BookingMade.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\BookingMade.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Customer\\Home\\BookingMade.cshtml.cs",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\BookingMade.cshtml.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\BookingMade.cshtml.cs",
               "RelativeToolTip": "Pages\\Customer\\Home\\BookingMade.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -554,11 +569,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Customer\\Home\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Details.cshtml.cs",
               "RelativeToolTip": "Pages\\Customer\\Home\\Details.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAACKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -567,11 +582,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Order.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Order.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Order.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Customer\\Home\\Order.cshtml.cs",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Order.cshtml.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Customer\\Home\\Order.cshtml.cs",
               "RelativeToolTip": "Pages\\Customer\\Home\\Order.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -580,11 +595,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Types\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Types\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Types\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Types\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Types\\Create.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Types\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -593,24 +608,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Tickets\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Tickets\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Tickets\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Tickets\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Tickets\\Create.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Tickets\\Create.cshtml.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAywCAAAAAfAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvyAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T13:47:40.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Theatres\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Theatres\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Theatres\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Theatres\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Theatres\\Create.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Theatres\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -619,24 +634,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Films\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Films\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Films\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Films\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Films\\Create.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Films\\Create.cshtml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T13:47:40.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Bookings\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Bookings\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Bookings\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Bookings\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Bookings\\Create.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Bookings\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -645,12 +660,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "UnitOfWork .cs",
               "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.Services\\UnitOfWork .cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\team project\\RP1.Services\\UnitOfWork .cs",
+              "RelativeDocumentMoniker": "..\\..\\team project\\RP1.Services\\UnitOfWork .cs",
               "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.Services\\UnitOfWork .cs",
-              "RelativeToolTip": "..\\..\\..\\team project\\RP1.Services\\UnitOfWork .cs",
+              "RelativeToolTip": "..\\..\\team project\\RP1.Services\\UnitOfWork .cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T13:47:40.902Z",
@@ -658,12 +673,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 45,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.Services\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\team project\\RP1.Services\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\team project\\RP1.Services\\IUnitOfWork.cs",
               "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.Services\\IUnitOfWork.cs",
-              "RelativeToolTip": "..\\..\\..\\team project\\RP1.Services\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\team project\\RP1.Services\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T13:47:40.909Z",
@@ -671,12 +686,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 46,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.Models\\Models\\Booking.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\team project\\RP1.Models\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "..\\..\\team project\\RP1.Models\\Models\\Booking.cs",
               "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.Models\\Models\\Booking.cs",
-              "RelativeToolTip": "..\\..\\..\\team project\\RP1.Models\\Models\\Booking.cs",
+              "RelativeToolTip": "..\\..\\team project\\RP1.Models\\Models\\Booking.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAMwA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T13:47:40.922Z",
@@ -684,11 +699,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Screenings\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Screenings\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Screenings\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Screenings\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Screenings\\Create.cshtml.cs",
               "RelativeToolTip": "Pages\\Admin\\Screenings\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwDgAAACtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -697,12 +712,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 47,
               "Title": "RP1.DataAccess.csproj",
               "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.DataAccess\\RP1.DataAccess.csproj",
-              "RelativeDocumentMoniker": "..\\..\\..\\team project\\RP1.DataAccess\\RP1.DataAccess.csproj",
+              "RelativeDocumentMoniker": "..\\..\\team project\\RP1.DataAccess\\RP1.DataAccess.csproj",
               "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.DataAccess\\RP1.DataAccess.csproj",
-              "RelativeToolTip": "..\\..\\..\\team project\\RP1.DataAccess\\RP1.DataAccess.csproj",
+              "RelativeToolTip": "..\\..\\team project\\RP1.DataAccess\\RP1.DataAccess.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-23T13:47:40.945Z",
@@ -710,12 +725,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 48,
               "Title": "Screening.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.Models\\Models\\Screening.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\team project\\RP1.Models\\Models\\Screening.cs",
+              "RelativeDocumentMoniker": "..\\..\\team project\\RP1.Models\\Models\\Screening.cs",
               "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.Models\\Models\\Screening.cs",
-              "RelativeToolTip": "..\\..\\..\\team project\\RP1.Models\\Models\\Screening.cs",
+              "RelativeToolTip": "..\\..\\team project\\RP1.Models\\Models\\Screening.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T13:47:41.033Z",
@@ -723,12 +738,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 49,
               "Title": "Ticket.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.Models\\Models\\Ticket.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\team project\\RP1.Models\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "..\\..\\team project\\RP1.Models\\Models\\Ticket.cs",
               "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\team project\\RP1.Models\\Models\\Ticket.cs",
-              "RelativeToolTip": "..\\..\\..\\team project\\RP1.Models\\Models\\Ticket.cs",
+              "RelativeToolTip": "..\\..\\team project\\RP1.Models\\Models\\Ticket.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAmwAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T13:47:41.039Z",
@@ -736,24 +751,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "tut1.csproj",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\tut1.csproj",
               "RelativeDocumentMoniker": "tut1.csproj",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\tut1.csproj",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\tut1.csproj",
               "RelativeToolTip": "tut1.csproj",
-              "ViewState": "AQIAAAEAAAAAAAAAAABBwBYAAABCAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBkAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-23T13:47:41.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Screenings\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Screenings\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Screenings\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\FIIIIIIIIIIIIIINAL TEAM PROJECT\\team-1-project\\tut1 - Copy - Copy\\Pages\\Admin\\Screenings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\tut1 - Copy - Copy\\Pages\\Admin\\Screenings\\Create.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Screenings\\Create.cshtml",
               "ViewState": "AQIAAAgAAAAAAAAAAAAMwB0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -763,12 +778,85 @@
           ]
         },
         {
-          "DockedWidth": 149,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 375,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Screening.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\RP1.Models\\Models\\Screening.cs",
+              "RelativeDocumentMoniker": "..\\RP1.Models\\Models\\Screening.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\RP1.Models\\Models\\Screening.cs",
+              "RelativeToolTip": "..\\RP1.Models\\Models\\Screening.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T01:28:21.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddScreeningRecordTests.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\RP1.Tests\\AddScreeningRecordTests.cs",
+              "RelativeDocumentMoniker": "..\\RP1.Tests\\AddScreeningRecordTests.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\RP1.Tests\\AddScreeningRecordTests.cs",
+              "RelativeToolTip": "..\\RP1.Tests\\AddScreeningRecordTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T01:25:10.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RP1.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\RP1.Tests\\RP1.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\RP1.Tests\\RP1.Tests.csproj",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\RP1.Tests\\RP1.Tests.csproj",
+              "RelativeToolTip": "..\\RP1.Tests\\RP1.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-02T01:14:53.272Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddBookingRecordTests.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\RP1.Tests\\AddBookingRecordTests.cs",
+              "RelativeDocumentMoniker": "..\\RP1.Tests\\AddBookingRecordTests.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\RP1.Tests\\AddBookingRecordTests.cs",
+              "RelativeToolTip": "..\\RP1.Tests\\AddBookingRecordTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T22:26:51.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240501222308_ver1.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\RP1.DataAccess\\Migrations\\20240501222308_ver1.cs",
+              "RelativeDocumentMoniker": "..\\RP1.DataAccess\\Migrations\\20240501222308_ver1.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive - Letterkenny Institute of Technology\\Desktop\\TEEEEEM PROJ\\RP1.DataAccess\\Migrations\\20240501222308_ver1.cs",
+              "RelativeToolTip": "..\\RP1.DataAccess\\Migrations\\20240501222308_ver1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T22:23:08.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }
